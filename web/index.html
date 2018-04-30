@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+
+
+<head>
+
+<title>Vizualizacija podatkov o Slovenskem parlamentu</title>
+<link rel="stylesheet" href="style.css">
+<script src="script.js"></script>
+<script src="data0.js"></script>
+<script src="data1.js"></script>
+<script src="data2.js"></script>
+
+</head>
+
+
+
+<body onload="btnClickHandler(0)">
+
+<header>
+	<h1>Vizualizacija podatkov o Slovenskem parlamentu</h1>
+</header>
+
+<nav>
+	<button onclick="btnClickHandler(0)">Seja</button>
+	<button onclick="btnClickHandler(1)">Stranka</button>
+	<button onclick="btnClickHandler(2)">Poslanec</button>
+</nav>
+
+<section>
+	<select id="dropdown" onchange="dropdownChangeHandler()"></select>
+	<div id="visualizations"></div>
+</section>
+
+<footer>
+	Avtorja: Rok Grmek in Simon Žaucer.
+</footer>
+
+</body>
+
+
+
+</html>
