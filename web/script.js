@@ -18,15 +18,13 @@ function btnClickHandler(btn) {
 		}
 	}
 	
-	var dropdown = document.getElementById("dropdown");
-	
-	dropdown.innerHTML = "";
+	var dropdownOptions = "";
 	for (key in data[page]) {
-		dropdown.innerHTML += "<option value=\"" + key + "\">" + key + "</option>";
+		dropdownOptions += "<option value=\"" + key + "\">" + key + "</option>";
 	}
-	
+	document.getElementById("dropdown").innerHTML = dropdownOptions;
 	if (savedDropdownValues[page] != null) {
-		dropdown.value = savedDropdownValues[page];
+		document.getElementById("dropdown").value = savedDropdownValues[page];
 	}
 	
 	dropdownChangeHandler();
