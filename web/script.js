@@ -218,10 +218,13 @@ function addVisualizationAktivnost(visData) {
 	var c1 = getComputedStyle(document.body).getPropertyValue('--c1');
 	var c2 = getComputedStyle(document.body).getPropertyValue('--c2');
 	
-	var xMin = 60;
-	var xMax = 440;
-	var yMin = 250;
+	var xMin = 130;
+	var xMax = 470;
+	var yMin = 220;
 	var yMax = 10;
+	
+	var xLegend = 495;
+	var yLegend = 60;
 	
 	var avgs = [788, 966, 2589, 0, 714, 1425, 1808, 2755, 2441, 389, 3856, 1347, 2481, 1893, 1654, 1103, 2425, 2601, 1206, 2410, 1600, 637, 2771, 1054, 1172, 1566, 2324, 0, 1522, 1725, 1217];
 	var max = 0;
@@ -239,7 +242,7 @@ function addVisualizationAktivnost(visData) {
 	newVisualization += "<h2>Aktivnost po mesecih</h2>";
 	
 	// svg begin
-	newVisualization += "<svg width=\"500\" height=\"300\" style=\"fill: " + c1 + ";\">";
+	newVisualization += "<svg width=\"600\" height=\"265\" style=\"fill: " + c1 + ";\">";
 	
 	// avgs polygon
 	newVisualization += "<polygon points=\"" + xMin + "," + yMin + " ";
@@ -251,11 +254,21 @@ function addVisualizationAktivnost(visData) {
 	newVisualization += xMax + "," + yMin + "\" style=\"fill: rgba(0,0,0,0.07); stroke: none;\"/>";
 	
 	// axis
+	/*
 	newVisualization += "<polygon points=\"";
 	newVisualization += xMin + "," + yMax + " ";
 	newVisualization += xMin + "," + yMin + " ";
 	newVisualization += xMax + "," + yMin + " ";
 	newVisualization += xMax + "," + yMax + " ";
+	newVisualization += "\" style=\"fill: none; stroke: " + c1 + "; stroke-width: 2;\"/>";
+	*/
+	newVisualization += "<polyline points=\"";
+	newVisualization += xMin + "," + yMax + " ";
+	newVisualization += xMax + "," + yMax + " ";
+	newVisualization += "\" style=\"fill: none; stroke: " + c1 + "; stroke-width: 2;\"/>";
+	newVisualization += "<polyline points=\"";
+	newVisualization += xMin + "," + yMin + " ";
+	newVisualization += xMax + "," + yMin + " ";
 	newVisualization += "\" style=\"fill: none; stroke: " + c1 + "; stroke-width: 2;\"/>";
 	
 	// visData polyline
@@ -281,8 +294,31 @@ function addVisualizationAktivnost(visData) {
 	newVisualization += "<text x=\"" + xMax + "\" y=\"" + (yMin + 40) + "\" text-anchor=\"end\">1992</text>";
 	
 	// text y
-	newVisualization += "<text x=\"" + (xMin - 15) + "\" y=\"" + (yMax + 11) + "\" text-anchor=\"end\">" + max + "</text>";
-	newVisualization += "<text x=\"" + (xMin - 15) + "\" y=\"" + (yMin - 1) + "\" text-anchor=\"end\">0</text>";
+	newVisualization += "<text x=\"" + (xMin - 15) + "\" y=\"" + (yMax + 5) + "\" text-anchor=\"end\">" + max + "</text>";
+	newVisualization += "<text x=\"" + (xMin - 15) + "\" y=\"" + (yMin + 5) + "\" text-anchor=\"end\">0</text>";
+	
+	// legend visData
+	newVisualization += "<polyline points=\"";
+	newVisualization += xLegend + "," + (yLegend + 22) + " ";
+	newVisualization += (xLegend + 10) + "," + (yLegend + 12) + " ";
+	newVisualization += (xLegend + 20) + "," + (yLegend + 22) + " ";
+	newVisualization += "\" style=\"fill: none; stroke: " + c2 + "; stroke-width: 2;\"/>";
+	newVisualization += "<circle cx=\"" + xLegend + "\" cy=\"" + (yLegend + 22) + "\" r=\"4\" style=\"fill: " + c2 + ";\"/>";
+	newVisualization += "<circle cx=\"" + (xLegend + 10) + "\" cy=\"" + (yLegend + 12) + "\" r=\"4\" style=\"fill: " + c2 + ";\"/>";
+	newVisualization += "<circle cx=\"" + (xLegend + 20) + "\" cy=\"" + (yLegend + 22) + "\" r=\"4\" style=\"fill: " + c2 + ";\"/>";
+	newVisualization += "<text x=\"" + (xLegend + 35) + "\" y=\"" + (yLegend + 0) + "\" text-anchor=\"start\">Št. besed</text>";
+	newVisualization += "<text x=\"" + (xLegend + 35) + "\" y=\"" + (yLegend + 20) + "\" text-anchor=\"start\">izbranega</text>";
+	newVisualization += "<text x=\"" + (xLegend + 35) + "\" y=\"" + (yLegend + 40) + "\" text-anchor=\"start\">poslanca.</text>";
+	
+	// legend avgs
+	newVisualization += "<polygon points=\"";
+	newVisualization += (xLegend - 3) + "," + (yLegend + 104) + " ";
+	newVisualization += (xLegend + 10) + "," + (yLegend + 90) + " ";
+	newVisualization += (xLegend + 23) + "," + (yLegend + 104) + " ";
+	newVisualization += "\" style=\"fill: rgba(0,0,0,0.07); stroke: none;\"/>";
+	newVisualization += "<text x=\"" + (xLegend + 35) + "\" y=\"" + (yLegend + 80) + "\" text-anchor=\"start\">Povprečje</text>";
+	newVisualization += "<text x=\"" + (xLegend + 35) + "\" y=\"" + (yLegend + 100) + "\" text-anchor=\"start\">ostalih</text>";
+	newVisualization += "<text x=\"" + (xLegend + 35) + "\" y=\"" + (yLegend + 120) + "\" text-anchor=\"start\">poslancev.</text>";
 	
 	// svg end
 	newVisualization += "</svg>";
