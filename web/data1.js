@@ -3,66 +3,66 @@ data[1] =
 	"DS":
 	[
 		["France Bučar", "Spomenka Hribar", "Anton Peršak", "Rudi Šeligo"],
-		[["biti", 54712], ["da", 20850], ["ta", 20599], ["in", 15959], ["za", 15355], ["se", 14509], ["v", 12486], ["na", 10264], ["kdo", 9812], ["z", 8535]]
+		[["amandma", 8500], ["predlog", 6285], ["prositi", 5527], ["zakon", 5520], ["zbor", 4971], ["hvala", 4021], ["Slovenija", 3931], ["predlagati", 3504], ["komisija", 3475], ["republika", 3424]]
 	],
 
 	"LDS.1990":
 	[
 		["Zoran Thaler", "Franco Juri", "Mile Šetinc", "Jožef Školč", "Mojmir Ocvirk", "Janez Kopač", "Metka Mencin", "Gregor Golobič", "Andrej Verlič", "Bogomir Vaupotič", "Tone Anderlič", "Zdenka Vidovič"],
-		[["biti", 36715], ["ta", 18692], ["da", 13670], ["in", 12559], ["v", 10501], ["se", 9261], ["ki", 6801], ["za", 6581], ["na", 6491], ["z", 5306]]
+		[["zakon", 4144], ["Slovenija", 1537], ["predlog", 1385], ["amandma", 1359], ["zato", 1343], ["hvala", 1313], ["misliti", 1295], ["predlagati", 1245], ["morati", 1245], ["skupščina", 1230]]
 	],
 
 	"SSS":
 	[
 		["Peter Bekeš", "Borut Šuklje", "Dušan Semolič", "Jože Smole", "Viktor Žakelj", "Milan Balažic", "Darja Lavtižar"],
-		[["biti", 31830], ["ta", 16012], ["da", 12643], ["in", 12027], ["v", 10510], ["se", 7769], ["na", 6104], ["za", 6029], ["ki", 5725], ["ne", 4583]]
+		[["zakon", 2542], ["Slovenija", 1799], ["morati", 1699], ["misliti", 1507], ["država", 1115], ["vlada", 1113], ["reči", 1106], ["predlog", 1105], ["zato", 1101], ["vprašanje", 1006]]
 	],
 
 	"SDZ-NDS":
 	[
 		["Rajko Pirnat", "Anton Tomažič"],
-		[["biti", 9391], ["ta", 3658], ["da", 3573], ["in", 2569], ["v", 2345], ["se", 1737], ["za", 1295], ["na", 1225], ["ne", 1120], ["tudi", 1117]]
+		[["zakon", 971], ["morati", 456], ["komisija", 436], ["predlog", 403], ["zbor", 388], ["predlagati", 387], ["misliti", 361], ["zato", 361], ["amandma", 325], ["torej", 305]]
 	],
 
 	"SDP":
 	[
 		["Miran Potrč", "Ciril Ribičič", "Lev Kreft", "Janez Kocijančič", "Franc Pivec", "Drago Plešivčnik", "Božo Kuharič", "Borut Pahor", "Sonja Lokar", "Franc Pipan", "Štefan Korošec"],
-		[["biti", 36344], ["da", 16021], ["ta", 15500], ["in", 14186], ["v", 11085], ["se", 8031], ["za", 6762], ["na", 6615], ["ki", 6299], ["ne", 5691]]
+		[["zakon", 2900], ["Slovenija", 1581], ["misliti", 1574], ["morati", 1542], ["vprašanje", 1505], ["predlog", 1487], ["skupščina", 1263], ["vlada", 1263], ["predlagati", 1170], ["hvala", 1146]]
 	],
 
 	"SKD":
 	[
 		["Andrej Capuder", "Ciril Kolešnik", "Peter Reberc", "Alojz Peterle", "Janez Lampret", "Izidor Rejc", "Janez Gajšek", "Ignac Polajnar", "Nada Bolcar", "Štefan Kociper", "Jože Magdič"],
-		[["biti", 28956], ["ta", 12834], ["da", 9740], ["in", 9690], ["v", 7960], ["se", 6496], ["za", 4825], ["na", 4538], ["ki", 4120], ["tudi", 4101]]
+		[["zakon", 1809], ["morati", 1359], ["Slovenija", 1290], ["misliti", 1186], ["reči", 1155], ["vlada", 1151], ["vedeti", 855], ["zato", 805], ["povedati", 794], ["ampak", 790]]
 	],
 
 	"SLS":
 	[
 		["Marjan Podobnik", "France Zagožen", "Stanko Buser", "Ludvik Toplak", "Janko Halb", "Franc Potočnik", "Jože Hobič", "Ivan Pučnik", "Alojz Grabner", "Mihaela Logar", "Julij Nemanič"],
-		[["biti", 64823], ["da", 22611], ["in", 22224], ["ta", 20264], ["se", 17764], ["za", 17486], ["v", 15767], ["na", 12827], ["kdo", 12049], ["z", 10166]]
+		[["zakon", 9641], ["predlog", 9540], ["amandma", 7549], ["prositi", 6467], ["hvala", 6221], ["zbor", 5708], ["Slovenija", 5129], ["predlagati", 4813], ["republika", 4612], ["člen", 4392]]
 	],
 
 	"SDSS":
 	[
 		["France Tomšič", "Emil Pintar", "Vitodrag Pukl", "Janez Janša", "Andrej Magajna", "Slavko Kmetič", "Katja Boh", "Matjaž Šinkovec", "Branko Grims", "Andrej Žorž"],
-		[["biti", 38829], ["ta", 18077], ["da", 14598], ["in", 11383], ["v", 11071], ["se", 8220], ["za", 6582], ["na", 6570], ["ki", 5846], ["ne", 5603]]
+		[["zakon", 2867], ["Slovenija", 1764], ["morati", 1695], ["predlog", 1590], ["zato", 1553], ["misliti", 1439], ["predlagati", 1373], ["reči", 1373], ["vlada", 1230], ["hvala", 1192]]
 	],
 
 	"ZS":
 	[
 		["Aleksandra Pretnar", "Leo Šešerko", "Hubert Požarnik", "Ivan Tomše", "Vane Gošnik", "Božidar Voljč", "Boris Gerl", "Žarko Pregelj"],
-		[["biti", 20324], ["ta", 8553], ["da", 7816], ["in", 6775], ["v", 6390], ["se", 4453], ["za", 3662], ["ki", 3325], ["na", 3278], ["ne", 2708]]
+		[["zakon", 1282], ["Slovenija", 1140], ["hvala", 903], ["morati", 804], ["predlagati", 792], ["zato", 780], ["vlada", 695], ["predlog", 681], ["zbor", 651], ["reči", 633]]
 	],
 
 	"Neodvisen":
 	[
 		["Roberto Battelli", "Mária Pozsonec"],
-		[["biti", 2172], ["ta", 1109], ["in", 865], ["da", 838], ["v", 716], ["se", 546], ["za", 533], ["na", 487], ["ki", 378], ["z", 311]]
+		[["narodnost", 178], ["hvala", 162], ["Slovenija", 128], ["spoštovan", 106], ["skupnost", 104], ["morati", 95], ["zakon", 87], ["problem", 85], ["človek", 82], ["vedeti", 80]]
 	],
 
 	"LS":
 	[
 		["Zvone Žagar", "Ivan Krefl", "Franc Golija"],
-		[["biti", 5355], ["ta", 2649], ["da", 2216], ["in", 1736], ["v", 1477], ["se", 1234], ["za", 1068], ["na", 934], ["ki", 884], ["ne", 810]]
+		[["zakon", 480], ["predlagati", 266], ["Slovenija", 257], ["misliti", 229], ["zato", 228], ["gospodarstvo", 216], ["hvala", 214], ["vlada", 187], ["morati", 185], ["predlog", 179]]
 	]
 };
