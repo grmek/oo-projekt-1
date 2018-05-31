@@ -64,7 +64,8 @@ function addVisualizationPotekSeje(visData) {
 	
 	var minDot = 5;
 	var maxDot = 30;
-	var minSpace = 10;
+	var minSpace = 6;
+	var lineLen = 20;
 	
 	var maxWords = 0;
 	var minWords = Number.MAX_VALUE;
@@ -93,6 +94,10 @@ function addVisualizationPotekSeje(visData) {
 		var tEnd = new Date(visData[i][0][1]);
 		var hours = (tEnd - tStart) / 3600000;
 		
+		if (hours == 0) {
+			hours = 0.01;
+		}
+		
 		var totalSizePerHour = (size + (minSpace * (visData[i][1].length + 1))) / hours;
 		if (totalSizePerHour > maxTotalSizePerHour) {
 			maxTotalSizePerHour = totalSizePerHour;
@@ -112,7 +117,7 @@ function addVisualizationPotekSeje(visData) {
 		var space = (totalSize - sizesWithoutSpacing[i]) / (visData[i][1].length + 1);
 		
 		// tStart
-		newVisualization += tStart.getDay() + "." + tStart.getMonth() + "." + tStart.getFullYear() + " " + tStart.getHours() + ":" + tStart.getMinutes() + "<br>";
+		newVisualization += tStart.getDay() + "." + tStart.getMonth() + "." + tStart.getFullYear() + " " + tStart.getHours() + ":" + ("0" + tStart.getMinutes()).slice(-2) + "<br>";
 		
 		// svg begin
 		newVisualization += "<svg width=\"500\" height=\"" + totalSize + "\" style=\"fill: " + c1 + ";\">"
@@ -130,21 +135,21 @@ function addVisualizationPotekSeje(visData) {
 			
 			// text
 			if (textSide == 1) {
-				newVisualization += "<line x1=\"250\" y1=\"" + position + "\" x2=\"" + (250 + (dotSize + minSpace)) + "\" y2=\"" + position + "\" style=\"stroke: " + c2 + "; stroke-width: 2;\"/>"
+				newVisualization += "<line x1=\"250\" y1=\"" + position + "\" x2=\"" + (250 + (dotSize + lineLen)) + "\" y2=\"" + position + "\" style=\"stroke: " + c2 + "; stroke-width: 2;\"/>"
 				if (visData[i][1][j][0] in data[2]) {
-					newVisualization += "<text x=\"" + (250 + (dotSize + minSpace + 7)) + "\" y=\"" + (position + 5) + "\" text-anchor=\"start\" onclick=\"jumpTo(2, '" + visData[i][1][j][0] + "')\" style=\"cursor: pointer;\">" + visData[i][1][j][0] + "</text>";
+					newVisualization += "<text x=\"" + (250 + (dotSize + 1.5 * lineLen)) + "\" y=\"" + (position + 5) + "\" text-anchor=\"start\" onclick=\"jumpTo(2, '" + visData[i][1][j][0] + "')\" style=\"cursor: pointer;\">" + visData[i][1][j][0] + "</text>";
 				}
 				else {
-					newVisualization += "<text x=\"" + (250 + (dotSize + minSpace + 7)) + "\" y=\"" + (position + 5) + "\" text-anchor=\"start\" style=\"cursor: default;\">" + visData[i][1][j][0] + "</text>";
+					newVisualization += "<text x=\"" + (250 + (dotSize + 1.5 * lineLen)) + "\" y=\"" + (position + 5) + "\" text-anchor=\"start\" style=\"cursor: default;\">" + visData[i][1][j][0] + "</text>";
 				}
 			}
 			else {
-				newVisualization += "<line x1=\"250\" y1=\"" + position + "\" x2=\"" + (250 - (dotSize + minSpace)) + "\" y2=\"" + position + "\" style=\"stroke: " + c2 + "; stroke-width: 2;\"/>"
+				newVisualization += "<line x1=\"250\" y1=\"" + position + "\" x2=\"" + (250 - (dotSize + lineLen)) + "\" y2=\"" + position + "\" style=\"stroke: " + c2 + "; stroke-width: 2;\"/>"
 				if (visData[i][1][j][0] in data[2]) {
-					newVisualization += "<text x=\"" + (250 - (dotSize + minSpace + 7)) + "\" y=\"" + (position + 5) + "\" text-anchor=\"end\" onclick=\"jumpTo(2, '" + visData[i][1][j][0] + "')\" style=\"cursor: pointer;\">" + visData[i][1][j][0] + "</text>";
+					newVisualization += "<text x=\"" + (250 - (dotSize + 1.5 * lineLen)) + "\" y=\"" + (position + 5) + "\" text-anchor=\"end\" onclick=\"jumpTo(2, '" + visData[i][1][j][0] + "')\" style=\"cursor: pointer;\">" + visData[i][1][j][0] + "</text>";
 				}
 				else {
-					newVisualization += "<text x=\"" + (250 - (dotSize + minSpace + 7)) + "\" y=\"" + (position + 5) + "\" text-anchor=\"end\" style=\"cursor: default;\">" + visData[i][1][j][0] + "</text>";
+					newVisualization += "<text x=\"" + (250 - (dotSize + 1.5 * lineLen)) + "\" y=\"" + (position + 5) + "\" text-anchor=\"end\" style=\"cursor: default;\">" + visData[i][1][j][0] + "</text>";
 				}
 			}
 			
@@ -159,7 +164,7 @@ function addVisualizationPotekSeje(visData) {
 		// tEnd
 		newVisualization += tEnd.getDay() + "." + tEnd.getMonth() + "." + tEnd.getFullYear() + " " + tEnd.getHours() + ":" + ("0" + tEnd.getMinutes()).slice(-2) + "<br>";
 		if (i < (visData.length - 1)) {
-			newVisualization += "<br><br>";
+			newVisualization += "<br><br><br>";
 		}
 	}
 	
@@ -218,12 +223,12 @@ function addVisualizationAktivnost(visData) {
 	var c1 = getComputedStyle(document.body).getPropertyValue('--c1');
 	var c2 = getComputedStyle(document.body).getPropertyValue('--c2');
 	
-	var xMin = 130;
-	var xMax = 470;
+	var xMin = 200;
+	var xMax = 600;
 	var yMin = 220;
 	var yMax = 10;
 	
-	var xLegend = 495;
+	var xLegend = 660;
 	var yLegend = 60;
 	
 	var avgs = [788, 966, 2589, 0, 714, 1425, 1808, 2755, 2441, 389, 3856, 1347, 2481, 1893, 1654, 1103, 2425, 2601, 1206, 2410, 1600, 637, 2771, 1054, 1172, 1566, 2324, 0, 1522, 1725, 1217];
@@ -242,7 +247,7 @@ function addVisualizationAktivnost(visData) {
 	newVisualization += "<h2>Aktivnost po mesecih</h2>";
 	
 	// svg begin
-	newVisualization += "<svg width=\"600\" height=\"265\" style=\"fill: " + c1 + ";\">";
+	newVisualization += "<svg width=\"800\" height=\"265\" style=\"fill: " + c1 + ";\">";
 	
 	// avgs polygon
 	newVisualization += "<polygon points=\"" + xMin + "," + yMin + " ";
@@ -254,14 +259,6 @@ function addVisualizationAktivnost(visData) {
 	newVisualization += xMax + "," + yMin + "\" style=\"fill: rgba(0,0,0,0.07); stroke: none;\"/>";
 	
 	// axis
-	/*
-	newVisualization += "<polygon points=\"";
-	newVisualization += xMin + "," + yMax + " ";
-	newVisualization += xMin + "," + yMin + " ";
-	newVisualization += xMax + "," + yMin + " ";
-	newVisualization += xMax + "," + yMax + " ";
-	newVisualization += "\" style=\"fill: none; stroke: " + c1 + "; stroke-width: 2;\"/>";
-	*/
 	newVisualization += "<polyline points=\"";
 	newVisualization += xMin + "," + yMax + " ";
 	newVisualization += xMax + "," + yMax + " ";
