@@ -69,16 +69,8 @@ data[0] =
 	[
 		[
 			[
-				["1990-07-18T10:20:00", "null"],
-				[["Ludvik Toplak", 149], ["Miran Potrč", 107], ["Ludvik Toplak", 101], ["Jože Smole", 20], ["Ludvik Toplak", 11], ["Janez Kopač", 66], ["Ludvik Toplak", 16], ["Jožica Puhar", 176], ["Ludvik Toplak", 2], ["Emil Pintar", 192], ["Ludvik Toplak", 3], ["Božidar Voljč", 84], ["Ludvik Toplak", 114], ["Jožica Puhar", 70], ["Ludvik Toplak", 3], ["Izidor Rejc", 73], ["Ludvik Toplak", 2], ["Jožef Školč", 172], ["Ludvik Toplak", 2], ["Ciril Kolešnik", 73], [" ", 2], ["Ciril Kolešnik", 37], ["Ludvik Toplak", 17], ["Božidar Voljč", 8], ["Ludvik Toplak", 23], ["Vane Gošnik", 17], ["Ludvik Toplak", 4], ["Jožef Školč", 72], ["Ludvik Toplak", 1], ["Janez Kocijančič", 79], ["Ludvik Toplak", 2], ["Ciril Kolešnik", 56], ["Ludvik Toplak", 2], ["France Zagožen", 48], ["Ludvik Toplak", 3], ["Andrej Capuder", 93]]
-			],
-			[
 				["1990-07-18T13:25:00", "1990-07-18T17:40:00"],
 				[["Ludvik Toplak", 35], ["Anton Peršak", 88], ["Ludvik Toplak", 4], ["Katja Boh", 65], ["Ludvik Toplak", 51], ["Anton Peršak", 12], ["Ludvik Toplak", 5], ["Miran Potrč", 8], ["Ludvik Toplak", 2], ["Miran Potrč", 8], ["Ludvik Toplak", 3], ["Miran Potrč", 8], ["Ludvik Toplak", 225], ["Miran Potrč", 14], ["Ludvik Toplak", 192], ["Spomenka Hribar", 13], ["Ludvik Toplak", 115], ["Miran Potrč", 361], ["Ludvik Toplak", 2], ["Jože Hobič", 35], ["Ludvik Toplak", 57], ["Jožef Školč", 103], ["Ludvik Toplak", 3], ["Mile Šetinc", 138], ["Ludvik Toplak", 2], ["Vane Gošnik", 92], ["Ludvik Toplak", 4], ["Miran Potrč", 47], ["Ludvik Toplak", 1], ["Ciril Ribičič", 742], ["Ludvik Toplak", 53], ["France Tomšič", 25], ["Ludvik Toplak", 25], ["Rajko Pirnat", 321], ["Ludvik Toplak", 10], ["Miran Potrč", 90], ["Ludvik Toplak", 6], ["Božidar Voljč", 79], ["Ludvik Toplak", 4], ["Boris Gerl", 70], ["Ludvik Toplak", 3], ["France Tomšič", 2], ["Ludvik Toplak", 2], ["Franco Juri", 8], ["Ludvik Toplak", 8], ["Franco Juri", 121], ["Ludvik Toplak", 25], ["Franco Juri", 9], ["Ludvik Toplak", 7], ["Franco Juri", 8], ["Ludvik Toplak", 2], ["Anton Peršak", 33], ["Ludvik Toplak", 2], ["Viktor Žakelj", 50], ["Ludvik Toplak", 30], ["Ciril Ribičič", 24], ["Ludvik Toplak", 18], ["Ciril Ribičič", 24], ["Ludvik Toplak", 2], ["Ciril Ribičič", 89], ["Ludvik Toplak", 2], ["Lev Kreft", 84], ["Ludvik Toplak", 3], ["Spomenka Hribar", 24], ["Ludvik Toplak", 1], ["Sonja Lokar", 26], ["Ludvik Toplak", 60], ["Miran Potrč", 36], ["Ludvik Toplak", 4], ["Božidar Voljč", 12], ["Ludvik Toplak", 14], ["France Zagožen", 20], ["Ludvik Toplak", 131], ["Janez Kopač", 11], ["Ludvik Toplak", 43], ["Mile Šetinc", 200], ["Ludvik Toplak", 4], ["Franc Pivec", 66], ["Ludvik Toplak", 2], ["Borut Šuklje", 187], ["Ludvik Toplak", 1], ["Franco Juri", 167], ["Ludvik Toplak", 2], ["Spomenka Hribar", 124], ["Ludvik Toplak", 3], ["Mile Šetinc", 63], ["Ludvik Toplak", 2], ["Andrej Magajna", 46], ["Ludvik Toplak", 2], ["France Zagožen", 30], ["Ludvik Toplak", 1], ["Sonja Lokar", 77], ["Ludvik Toplak", 4], ["Mojmir Ocvirk", 90], ["Ludvik Toplak", 7], ["Lev Kreft", 164], ["Ludvik Toplak", 9], ["Franco Juri", 39], ["Ludvik Toplak", 1], ["Mária Pozsonec", 39], ["Ludvik Toplak", 4], ["France Tomšič", 57], ["Ludvik Toplak", 6], ["Janez Janša", 14], ["Ludvik Toplak", 3], ["Roberto Battelli", 126], ["Ludvik Toplak", 9], ["Rudi Šeligo", 65], ["Ludvik Toplak", 34], ["Stane Stanič", 439], ["Ludvik Toplak", 7], ["Viktor Žakelj", 60], ["Ludvik Toplak", 5], ["Jože Smole", 96], ["Ludvik Toplak", 3], ["Miran Potrč", 65], ["Ludvik Toplak", 2], ["Mojmir Ocvirk", 25], ["Ludvik Toplak", 108], ["Janez Janša", 309], ["Ludvik Toplak", 134], ["Gregor Miklič", 107], ["Ludvik Toplak", 5], ["Miran Potrč", 58], ["Ludvik Toplak", 13], ["Jožica Puhar", 33], ["Ludvik Toplak", 70], ["France Tomšič", 82], ["Ludvik Toplak", 10], ["Gregor Miklič", 39], ["Ludvik Toplak", 37], ["Miran Potrč", 4], ["Ludvik Toplak", 200], ["Anton Peršak", 40], ["Ludvik Toplak", 73], ["Ivan Tomše", 40], ["Ludvik Toplak", 3], ["Janez Janša", 94], ["Ludvik Toplak", 52], ["Franco Juri", 57], ["Ludvik Toplak", 7], ["Alojz Peterle", 49], ["Ludvik Toplak", 6], ["Miran Potrč", 24], ["Ludvik Toplak", 27], ["Jožef Školč", 186], ["Ludvik Toplak", 2], ["Andrej Capuder", 43], ["Ludvik Toplak", 3], ["Anton Peršak", 71], ["Ludvik Toplak", 3], ["Darja Lavtižar", 59], ["Ludvik Toplak", 3], ["Emil Pintar", 190], ["Ludvik Toplak", 89], ["Lev Kreft", 30], ["Ludvik Toplak", 34], ["Miran Potrč", 10], ["Ludvik Toplak", 34], ["Jožef Školč", 25], ["Ludvik Toplak", 18], ["Anton Peršak", 32], ["Ludvik Toplak", 3], ["Franco Juri", 16], ["Ludvik Toplak", 15], ["Jožef Školč", 17], ["Ludvik Toplak", 106], ["Sonja Lokar", 110], ["Ludvik Toplak", 20], ["Sonja Lokar", 41], ["Ludvik Toplak", 8], ["Stanko Buser", 52], ["Ludvik Toplak", 10], ["Miran Potrč", 5], ["Ludvik Toplak", 2], ["Miran Potrč", 180], ["Ludvik Toplak", 8], ["France Tomšič", 179], ["Ludvik Toplak", 10], ["Borut Šuklje", 141], ["Ludvik Toplak", 3], ["Dušan Semolič", 60], ["Ludvik Toplak", 2], ["Roberto Battelli", 99], ["Ludvik Toplak", 3], ["Zvone Žagar", 194], ["Anton Peršak", 2], ["Boris Gerl", 56], ["Anton Peršak", 3], ["Darja Lavtižar", 200], ["Anton Peršak", 2], ["Viktor Žakelj", 57], ["Anton Peršak", 2], ["Milan Balažic", 55], ["Anton Peršak", 1], ["Ignac Polajnar", 34], ["Anton Peršak", 18], ["Mária Pozsonec", 21], ["Anton Peršak", 13], ["Andrej Magajna", 66], ["Anton Peršak", 11], ["Bogomir Vaupotič", 84], ["Anton Peršak", 12], ["Jožef Školč", 56], ["Anton Peršak", 7], ["Janko Halb", 302], ["Anton Peršak", 13], ["Janko Halb", 8], ["Anton Peršak", 5], ["Sonja Lokar", 138], ["Anton Peršak", 20], ["Franc Potočnik", 92], ["Anton Peršak", 3], ["Nada Bolcar", 84], ["Anton Peršak", 2], ["Franco Juri", 134], ["Anton Peršak", 14]]
-			],
-			[
-				["1990-07-18T18:55:00", "null"],
-				[["Ludvik Toplak", 157], ["Dušan Semolič", 20], ["Ludvik Toplak", 189], ["Verica Trstenjak", 21], ["Ludvik Toplak", 223], ["Metka Mencin", 160], ["Ludvik Toplak", 38], ["Janez Lampret", 28], ["Ludvik Toplak", 36], ["France Zagožen", 67], ["Ludvik Toplak", 3], ["Hubert Požarnik", 70], ["Ludvik Toplak", 2], ["Roberto Battelli", 47], ["Ludvik Toplak", 25], ["Sonja Lokar", 83], ["Ludvik Toplak", 3], ["France Zagožen", 66], ["Ludvik Toplak", 3], ["Lev Kreft", 38], ["Ludvik Toplak", 8], ["Anton Tomažič", 97], ["Ludvik Toplak", 8], ["Roberto Battelli", 77], ["Ludvik Toplak", 3], ["Anton Tomažič", 38], ["Ludvik Toplak", 4], ["Jožef Školč", 62], ["Ludvik Toplak", 2], ["Anton Tomažič", 18], ["Ludvik Toplak", 28], ["Spomenka Hribar", 17], ["Ludvik Toplak", 198], ["Mojmir Ocvirk", 96], ["Ludvik Toplak", 372], ["Ciril Zlobec", 20], ["Ludvik Toplak", 7], ["Dušan Semolič", 287], ["Ludvik Toplak", 3], ["Ciril Ribičič", 217], ["Gregor Miklič", 175], ["Ludvik Toplak", 135], ["Mojmir Ocvirk", 211], ["Ludvik Toplak", 6], ["France Tomšič", 79], ["Ludvik Toplak", 12], ["France Bučar", 62], ["Ludvik Toplak", 1], ["Zoran Thaler", 107], ["Emil Pintar", 156], ["Ludvik Toplak", 62], ["Jožef Školč", 157], ["Ludvik Toplak", 3], ["Rajko Pirnat", 107], ["Ludvik Toplak", 4], ["Andrej Magajna", 89], ["Ludvik Toplak", 8], ["France Zagožen", 61], ["Ludvik Toplak", 104], ["France Zagožen", 38], ["Ludvik Toplak", 1], ["Mojmir Ocvirk", 24], ["Ludvik Toplak", 1], ["Jožef Školč", 40], ["Ludvik Toplak", 94], ["Emil Pintar", 8], ["Ludvik Toplak", 37]]
 			],
 			[
 				["1990-07-19T13:35:00", "1990-07-19T15:00:00"],
@@ -207,10 +199,6 @@ data[0] =
 			[
 				["1990-11-20T18:35:00", "1990-11-20T19:30:00"],
 				[["Ludvik Toplak", 16], ["Jože Smole", 23], ["Ludvik Toplak", 42], ["Emil Pintar", 1], ["Ludvik Toplak", 28], ["Emil Pintar", 54], ["Ludvik Toplak", 139], ["Alojz Janko", 172], ["Ludvik Toplak", 13], ["Dušan Semolič", 202], ["Ludvik Toplak", 3], ["Sonja Lokar", 731], ["Ludvik Toplak", 2], ["Mária Pozsonec", 181], ["Ludvik Toplak", 3], ["Mile Šetinc", 326], ["Ludvik Toplak", 4], ["Emil Pintar", 446], ["Anton Peršak", 2], ["Stanko Buser", 69], ["Anton Peršak", 3], ["Mária Pozsonec", 20], ["Anton Peršak", 2], ["Stanko Buser", 26], ["Anton Peršak", 2], ["France Tomšič", 172], ["Anton Peršak", 10], ["France Tomšič", 7], ["Anton Peršak", 6], ["Emil Pintar", 164], ["Anton Peršak", 14], ["Stanko Buser", 33], ["Anton Peršak", 21], ["Ludvik Toplak", 15], ["Emil Pintar", 24], ["Ludvik Toplak", 6]]
-			],
-			[
-				["1990-11-21T10:25:00", "null"],
-				[["Ludvik Toplak", 53], ["Viktor Žakelj", 317], ["Ludvik Toplak", 5], ["Božidar Voljč", 304], ["Ludvik Toplak", 8], ["Franc Pivec", 312], ["Ludvik Toplak", 4], ["Aleksandra Pretnar", 218], ["Ludvik Toplak", 3], ["Franc Pivec", 30], ["Ludvik Toplak", 3], ["Stanko Buser", 63], ["Ludvik Toplak", 36], ["Spomenka Hribar", 101], ["Ludvik Toplak", 159], ["Mile Šetinc", 30], ["Ludvik Toplak", 8], ["Pavle Svete", 474], ["Ludvik Toplak", 2], ["Janko Halb", 188], ["Ludvik Toplak", 4], ["Emil Pintar", 139], ["Ludvik Toplak", 3], ["Stanko Buser", 47], ["Ludvik Toplak", 3], ["Sonja Lokar", 145], ["Ludvik Toplak", 3], ["Izidor Rejc", 242], ["Ludvik Toplak", 3], ["France Tomšič", 59], ["Ludvik Toplak", 33], ["Pavle Svete", 249], ["Ludvik Toplak", 7], ["France Tomšič", 30], ["Ludvik Toplak", 2], ["Štefan Kociper", 170], ["Ludvik Toplak", 4], ["Jože Smole", 19], ["Ludvik Toplak", 47], ["Emil Pintar", 6], ["Ludvik Toplak", 9], ["Sonja Lokar", 16], ["Ludvik Toplak", 6], ["Pavle Svete", 98], ["Ludvik Toplak", 2], ["Sonja Lokar", 69], ["Ludvik Toplak", 3], ["France Tomšič", 34], ["Ludvik Toplak", 140], ["Pavle Svete", 44], ["Ludvik Toplak", 3], ["Stanko Buser", 14], ["Ludvik Toplak", 3], ["Emil Pintar", 47], ["Ludvik Toplak", 155], ["Pavle Svete", 21], ["Ludvik Toplak", 60], ["Pavle Svete", 143], ["Ludvik Toplak", 11], ["Jože Smole", 63], ["Ludvik Toplak", 20]]
 			],
 			[
 				["1990-11-21T13:15:00", "1990-11-21T15:30:00"],
@@ -764,10 +752,6 @@ data[0] =
 				[["Ludvik Toplak", 90], ["Andrej Verlič", 254], ["Ludvik Toplak", 3], ["Aleksandra Pretnar", 35], ["Ludvik Toplak", 1], ["Hubert Požarnik", 214], ["Ludvik Toplak", 4], ["Žarko Pregelj", 94], ["Ludvik Toplak", 5], ["Janko Halb", 137], ["Ludvik Toplak", 5], ["Ciril Kolešnik", 189], ["Ludvik Toplak", 21], ["Peter Marn", 693], ["Ludvik Toplak", 2], ["Andrej Verlič", 235], ["Ludvik Toplak", 7], ["Žarko Pregelj", 44], ["Ludvik Toplak", 9], ["Peter Marn", 35], ["Ludvik Toplak", 101]]
 			],
 			[
-				["1991-06-20T11:20:00", "null"],
-				[]
-			],
-			[
 				["1991-06-20T11:30:00", "1991-06-20T12:10:00"],
 				[["Ludvik Toplak", 357], ["Miha Jazbinšek", 349], ["Anton Peršak", 11], ["Andrej Magajna", 184], ["Anton Peršak", 8], ["Dušan Semolič", 487], ["Anton Peršak", 2], ["Miran Potrč", 844], ["Anton Peršak", 2], ["Štefan Kociper", 298], ["Anton Peršak", 243], ["Andrej Magajna", 127], ["Anton Peršak", 9], ["Franc Pivec", 435], ["Anton Peršak", 14], ["Janez Kopač", 548], ["Anton Peršak", 2], ["Božidar Voljč", 92], ["Anton Peršak", 2], ["Peter Reberc", 117], ["Anton Peršak", 3], ["Spomenka Hribar", 227], ["Anton Peršak", 6], ["Borut Pahor", 95], ["Anton Peršak", 9], ["Miha Jazbinšek", 705], ["Ludvik Toplak", 5], ["Spomenka Hribar", 39], ["Ludvik Toplak", 7], ["Miha Jazbinšek", 37], ["Ludvik Toplak", 3], ["Spomenka Hribar", 17], ["Ludvik Toplak", 1], ["Miha Jazbinšek", 21], ["Ludvik Toplak", 9]]
 			],
@@ -778,10 +762,6 @@ data[0] =
 			[
 				["1991-06-25T16:14:00", "1991-06-25T17:00:00"],
 				[["Ludvik Toplak", 333], ["Rajko Pirnat", 217], ["Ludvik Toplak", 40], ["Jožef Školč", 77], ["Ludvik Toplak", 3], ["Marjan Podobnik", 67], ["Ludvik Toplak", 5], ["Janez Kopač", 59], ["Ludvik Toplak", 4], ["Anton Peršak", 12], ["Ludvik Toplak", 3], ["Franc Pivec", 29], ["Ludvik Toplak", 3], ["France Zagožen", 3], ["Ludvik Toplak", 9], ["France Zagožen", 90], ["Ludvik Toplak", 177], ["Rajko Pirnat", 555], ["Ludvik Toplak", 6], ["Dušan Semolič", 148], ["Ludvik Toplak", 141], ["Janez Lampret", 215], ["Ludvik Toplak", 331]]
-			],
-			[
-				["null", "1991-07-18T16:44:00"],
-				[["Ludvik Toplak", 161], ["Jože Smole", 176], ["Ludvik Toplak", 31], ["Jože Smole", 3], ["Ludvik Toplak", 29], ["Matjaž Šinkovec", 31], ["Ludvik Toplak", 75], ["Jože Smole", 29], ["Ludvik Toplak", 107], ["Jožica Puhar", 444], ["Anton Peršak", 10], ["Marjan Podobnik", 296], ["Anton Peršak", 2], ["France Tomšič", 159], ["Anton Peršak", 4], ["Janko Halb", 89], ["Anton Peršak", 3], ["Jožica Puhar", 108], ["Anton Peršak", 2], ["Marjan Podobnik", 71], ["Franc Potočnik", 82], ["Anton Tomažič", 177], ["Stanko Buser", 66], ["Jože Smole", 67], ["Janko Halb", 127], ["Ludvik Toplak", 4], ["Ivan Tomše", 229], ["Anton Peršak", 6], ["Franc Potočnik", 61], ["Anton Peršak", 3], ["Darja Lavtižar", 175], ["Anton Peršak", 9], ["Stanko Buser", 63], ["Anton Peršak", 4], ["Franc Potočnik", 41], ["Anton Peršak", 11], ["Sonja Lokar", 108], ["Anton Peršak", 2], ["Mile Šetinc", 193], ["Anton Peršak", 3], ["France Tomšič", 162], ["Anton Peršak", 3], ["Jožica Puhar", 431], ["Anton Peršak", 8], ["Marjan Podobnik", 107], ["Anton Peršak", 192], ["Sonja Lokar", 21], ["Anton Peršak", 43], ["Aleksandra Pretnar", 57], ["Anton Peršak", 2], ["Borut Pahor", 114], ["Ludvik Toplak", 2], ["Dušan Semolič", 83], ["Ludvik Toplak", 3], ["Stanko Buser", 159], ["Ludvik Toplak", 3], ["Ivan Tomše", 118], ["Ludvik Toplak", 3], ["Janko Halb", 121], ["Ludvik Toplak", 6], ["Viktor Žakelj", 79], ["Ludvik Toplak", 2], ["Stanko Buser", 125], ["Ludvik Toplak", 6], ["Roberto Battelli", 20], ["Ludvik Toplak", 30]]
 			]
 		],
 		[["zakon", 569], ["hvala", 277], ["predlog", 277], ["Slovenija", 268], ["vprašanje", 249], ["morati", 235], ["reči", 222], ["prositi", 182], ["predlagati", 179], ["skupščina", 178]]
@@ -838,14 +818,6 @@ data[0] =
 				[["Ludvik Toplak", 66], ["Janez Kopač", 231], ["Ludvik Toplak", 3], ["Ignac Polajnar", 18], ["Janez Kopač", 126], ["Ludvik Toplak", 270], ["Milan Balažic", 468], ["Ludvik Toplak", 2], ["Andrej Magajna", 565], ["Ludvik Toplak", 11], ["Sonja Lokar", 476], ["Ludvik Toplak", 5], ["Darja Lavtižar", 103], ["Ludvik Toplak", 6], ["Jožica Puhar", 299], ["Ludvik Toplak", 233]]
 			],
 			[
-				["1991-08-01T15:41:00", "null"],
-				[["Ludvik Toplak", 35], ["Stanko Buser", 66], ["Ludvik Toplak", 2], ["Mojmir Ocvirk", 67], ["Ludvik Toplak", 2], ["Borut Pahor", 29], ["Ludvik Toplak", 31], ["Borut Pahor", 25], ["Ludvik Toplak", 16], ["Žarko Pregelj", 70], ["Ludvik Toplak", 17]]
-			],
-			[
-				["1991-08-28T14:35:00", "null"],
-				[["Ludvik Toplak", 27], ["Janez Kopač", 340], ["Ludvik Toplak", 349], ["Darja Lavtižar", 207], ["Ludvik Toplak", 97]]
-			],
-			[
 				["1991-09-10T15:19:00", "1991-09-10T15:50:00"],
 				[["Ludvik Toplak", 365], ["Sonja Lokar", 168], ["Ludvik Toplak", 3], ["Jože Smole", 11], ["Ludvik Toplak", 10], ["Franc Pivec", 74], ["Ludvik Toplak", 8], ["Franc Pivec", 11], ["Ludvik Toplak", 2], ["Ivan Tomše", 80], ["Ludvik Toplak", 3], ["Milan Balažic", 70], ["Ludvik Toplak", 4], ["Matjaž Šinkovec", 29], ["Ludvik Toplak", 3], ["Sonja Lokar", 25], ["Ludvik Toplak", 2], ["Jože Smole", 72], ["Ludvik Toplak", 266]]
 			]
@@ -887,10 +859,6 @@ data[0] =
 	"DruzPolZb-s025":
 	[
 		[
-			[
-				["null", "1991-09-11T18:55:00"],
-				[["Ludvik Toplak", 184], ["Metka Mencin", 64], ["Ludvik Toplak", 55], ["Dušan Semolič", 27], ["Ludvik Toplak", 3], ["France Tomšič", 68], ["Ludvik Toplak", 2], ["Jože Smole", 20], ["Ludvik Toplak", 68], ["Anton Peršak", 27], ["Ludvik Toplak", 38], ["Miran Potrč", 364], ["Ludvik Toplak", 4], ["Janko Halb", 50], ["Ludvik Toplak", 3], ["Miran Potrč", 82], ["Ludvik Toplak", 7], ["Jože Smole", 17], ["Ludvik Toplak", 2], ["Dušan Semolič", 92], ["Ludvik Toplak", 2], ["Mile Šetinc", 252], ["Ludvik Toplak", 2], ["Andrej Magajna", 171], ["Ludvik Toplak", 1], ["Borut Šuklje", 152], ["Ludvik Toplak", 5], ["Andrej Capuder", 34], ["Ludvik Toplak", 5], ["Ignac Polajnar", 39], ["Ludvik Toplak", 4], ["France Tomšič", 374], ["Ludvik Toplak", 40], ["Anton Tomažič", 114], ["Ludvik Toplak", 5], ["Emil Pintar", 381], ["Ludvik Toplak", 6], ["Emil Pintar", 122], ["Ludvik Toplak", 2], ["Matjaž Šinkovec", 192], ["Ludvik Toplak", 2], ["Viktor Žakelj", 113], ["Ludvik Toplak", 6], ["Viktor Žakelj", 121], ["Ludvik Toplak", 49], ["Darja Lavtižar", 132], ["Ludvik Toplak", 3], ["France Zagožen", 123], ["Ludvik Toplak", 2], ["Matjaž Šinkovec", 15], ["Ludvik Toplak", 7], ["Jožef Školč", 159], ["Ludvik Toplak", 4], ["Ciril Ribičič", 187], ["Ludvik Toplak", 143], ["Jožef Školč", 106], ["Ludvik Toplak", 20], ["Darja Lavtižar", 53], ["Ludvik Toplak", 91], ["Darja Lavtižar", 30], ["Ludvik Toplak", 19], ["Andrej Capuder", 28], ["Ludvik Toplak", 2], ["Jože Smole", 27], ["Ludvik Toplak", 9], ["Peter Bekeš", 108], ["Ludvik Toplak", 22], ["France Zagožen", 72], ["Ludvik Toplak", 3], ["Dušan Semolič", 53], ["Ludvik Toplak", 4], ["Ciril Ribičič", 32], ["Ludvik Toplak", 2], ["Rudi Šeligo", 128], ["Ludvik Toplak", 3], ["Vane Gošnik", 111], ["Ludvik Toplak", 6], ["Peter Bekeš", 72], ["Ludvik Toplak", 3], ["Jože Smole", 50], ["Ludvik Toplak", 3], ["Darja Lavtižar", 11], ["Ludvik Toplak", 61], ["Andrej Magajna", 102], ["Ludvik Toplak", 93], ["Emil Pintar", 40], ["Ludvik Toplak", 14], ["Emil Pintar", 68], ["Ludvik Toplak", 66], ["Mile Šetinc", 42], ["Ludvik Toplak", 23], ["Dušan Semolič", 21], ["Ludvik Toplak", 92], ["Matjaž Šinkovec", 132], ["Anton Peršak", 4], ["Viktor Žakelj", 113], ["Anton Peršak", 2], ["Andrej Magajna", 91], ["Anton Peršak", 4], ["Drago Plešivčnik", 314], ["Anton Peršak", 4], ["Metka Mencin", 135], ["Anton Peršak", 68], ["Vane Gošnik", 137], ["Anton Peršak", 2], ["Stanko Buser", 189], ["Anton Peršak", 7], ["Andrej Capuder", 41], ["Anton Peršak", 4], ["Emil Pintar", 78], ["Anton Peršak", 2], ["Borut Pahor", 137], ["Anton Peršak", 2], ["Aleksandra Pretnar", 84], ["Anton Peršak", 1], ["Janko Halb", 169], ["Anton Peršak", 3], ["Roberto Battelli", 68], ["Anton Peršak", 10], ["Julij Nemanič", 126], ["Anton Peršak", 4], ["Jože Smole", 343], ["Anton Peršak", 9], ["Izidor Rejc", 521], ["Anton Peršak", 2], ["Janez Gajšek", 97], ["Anton Peršak", 2], ["Božidar Voljč", 91], ["Anton Peršak", 2], ["Ciril Kolešnik", 86], ["Anton Peršak", 30], ["Andrej Magajna", 70], ["Anton Peršak", 9], ["Franco Juri", 98], ["Anton Peršak", 33], ["Miran Potrč", 62], ["Anton Peršak", 99], ["Ludvik Toplak", 6], ["Jože Smole", 28], ["Ludvik Toplak", 354], ["Emil Pintar", 329], ["Ludvik Toplak", 30], ["France Zagožen", 23], ["Emil Pintar", 38], ["Ludvik Toplak", 2], ["France Zagožen", 21], ["Ludvik Toplak", 3], ["Emil Pintar", 78], ["Ludvik Toplak", 67], ["Emil Pintar", 40], ["Ludvik Toplak", 6], ["Miran Potrč", 141], ["Ludvik Toplak", 24], ["Miran Potrč", 3], ["Ludvik Toplak", 44], ["Miran Potrč", 35], ["Ludvik Toplak", 29], ["Franc Horvat", 594], ["Ludvik Toplak", 6], ["Franc Horvat", 227], ["Ludvik Toplak", 9], ["Milan Balažic", 1288], ["Ludvik Toplak", 16]]
-			],
 			[
 				["1991-09-12T10:20:00", "1991-09-12T13:40:00"],
 				[["Ludvik Toplak", 83], ["Mile Šetinc", 1552], ["Ludvik Toplak", 3], ["France Tomšič", 252], ["Ludvik Toplak", 8], ["Izidor Rejc", 579], ["Ludvik Toplak", 7], ["Miran Potrč", 216], ["Ludvik Toplak", 29], ["Jože Smole", 34], ["Ludvik Toplak", 11], ["Ciril Kolešnik", 86], ["Ludvik Toplak", 7], ["Milan Balažic", 163], ["Ludvik Toplak", 8], ["Ciril Kolešnik", 30], ["Ludvik Toplak", 14], ["Anton Peršak", 1228], ["Ludvik Toplak", 7], ["France Zagožen", 93], ["Ludvik Toplak", 59], ["Miran Potrč", 12], ["Ludvik Toplak", 2], ["Janko Halb", 127], ["Ludvik Toplak", 2], ["Anton Peršak", 31], ["Ludvik Toplak", 2], ["Zvone Žagar", 52], ["Ludvik Toplak", 2], ["Anton Peršak", 6], ["Ludvik Toplak", 2], ["Emil Pintar", 1662], ["Ludvik Toplak", 5], ["Andrej Magajna", 482], ["Anton Peršak", 2], ["Janko Halb", 1016], ["Ludvik Toplak", 49], ["Miran Potrč", 12], ["Ludvik Toplak", 16], ["Jože Smole", 123], ["Ludvik Toplak", 3], ["Emil Pintar", 242], ["Ludvik Toplak", 2], ["Janko Halb", 97], ["Ludvik Toplak", 5], ["Janez Gajšek", 64], ["Ludvik Toplak", 5], ["Miran Potrč", 1184], ["Ludvik Toplak", 28], ["Viktor Žakelj", 1085], ["Ludvik Toplak", 8]]
@@ -992,10 +960,6 @@ data[0] =
 				[["Ludvik Toplak", 72]]
 			],
 			[
-				["1991-10-03T13:20:00", "null"],
-				[]
-			],
-			[
 				["1991-10-03T13:30:00", "1991-10-03T17:25:00"],
 				[["Ludvik Toplak", 280], ["Ivan Tomše", 61], ["Ludvik Toplak", 9], ["Janez Kocijančič", 57], ["Ludvik Toplak", 40], ["Anton Tomažič", 51], ["Ludvik Toplak", 27], ["Emil Pintar", 128], ["Ludvik Toplak", 4], ["Andrej Capuder", 48], ["Ludvik Toplak", 44], ["Miran Potrč", 213], ["Ludvik Toplak", 6], ["Miran Potrč", 55], ["Ludvik Toplak", 8], ["Vane Gošnik", 83], ["Ludvik Toplak", 5], ["Ivan Tomše", 65], ["Ludvik Toplak", 2], ["Ciril Ribičič", 107], ["Ludvik Toplak", 8], ["Anton Tomažič", 65], ["Ludvik Toplak", 29], ["France Tomšič", 86], ["Ludvik Toplak", 5], ["Anton Tomažič", 51], ["Ludvik Toplak", 2], ["Lev Kreft", 22], ["Ludvik Toplak", 38], ["France Tomšič", 53], ["Ludvik Toplak", 3], ["Žarko Pregelj", 113], ["Ludvik Toplak", 5], ["Emil Pintar", 11], ["Ludvik Toplak", 97], ["Žarko Pregelj", 19], ["Ludvik Toplak", 145], ["Žarko Pregelj", 53], ["Ludvik Toplak", 225], ["Anton Peršak", 80], ["Ludvik Toplak", 630], ["Žarko Pregelj", 37], ["Ludvik Toplak", 321], ["France Zagožen", 262], ["Ludvik Toplak", 180], ["Vane Gošnik", 23], ["Ludvik Toplak", 314], ["Anton Peršak", 12], ["Ludvik Toplak", 8], ["France Zagožen", 31], ["Ludvik Toplak", 30], ["Vane Gošnik", 77], ["Ludvik Toplak", 552], ["France Tomšič", 84], ["Anton Peršak", 53], ["Ludvik Toplak", 67], ["Darja Lavtižar", 228], ["Ludvik Toplak", 4], ["Anton Peršak", 168], ["Ludvik Toplak", 3], ["Franc Pivec", 219], ["Ludvik Toplak", 2], ["Borut Šuklje", 171], ["Ludvik Toplak", 2], ["France Tomšič", 209], ["Ludvik Toplak", 1], ["Ciril Kolešnik", 407], ["Ludvik Toplak", 8], ["France Tomšič", 31], ["Ludvik Toplak", 6], ["Vane Gošnik", 104], ["Ludvik Toplak", 3], ["Ignac Polajnar", 200], ["Ludvik Toplak", 5], ["France Tomšič", 71], ["Ludvik Toplak", 4], ["Mojmir Ocvirk", 78], ["Ludvik Toplak", 2], ["Janko Halb", 341], ["Ludvik Toplak", 7], ["Franc Pivec", 60], ["Ludvik Toplak", 5], ["Ignac Polajnar", 20], ["Ludvik Toplak", 3], ["Miran Potrč", 45], ["Ludvik Toplak", 1], ["Ciril Kolešnik", 292], ["Ludvik Toplak", 6], ["Andrej Verlič", 171], ["Ludvik Toplak", 3], ["Janko Halb", 59], ["Ludvik Toplak", 39], ["Ciril Kolešnik", 33], ["Ludvik Toplak", 2], ["Andrej Magajna", 115], ["Ludvik Toplak", 1], ["Anton Peršak", 2], ["Ludvik Toplak", 111], ["Anton Peršak", 2], ["Aleksandra Pretnar", 150], ["Ludvik Toplak", 8], ["Darja Lavtižar", 101], ["Ludvik Toplak", 10]]
 			],
@@ -1004,20 +968,12 @@ data[0] =
 				[["Ludvik Toplak", 240], ["Viktor Žakelj", 75], ["Ludvik Toplak", 35], ["Emil Pintar", 137], ["Ludvik Toplak", 196], ["Miran Potrč", 72], ["Ludvik Toplak", 155], ["Miran Potrč", 113], ["Ludvik Toplak", 3], ["France Zagožen", 19], ["Ludvik Toplak", 29], ["Viktor Žakelj", 11], ["Ludvik Toplak", 100], ["Dušan Semolič", 32], ["Ludvik Toplak", 823], ["France Tomšič", 65], ["Ludvik Toplak", 333], ["Miran Potrč", 4], ["Ludvik Toplak", 160], ["France Tomšič", 34], ["Ludvik Toplak", 13], ["Emil Pintar", 137], ["Ludvik Toplak", 113], ["Emil Pintar", 196], ["Ludvik Toplak", 116], ["France Tomšič", 24], ["Ludvik Toplak", 151], ["Emil Pintar", 28], ["Ludvik Toplak", 71], ["Emil Pintar", 146], ["Ludvik Toplak", 120], ["Emil Pintar", 61], ["Ludvik Toplak", 5], ["Žarko Pregelj", 16], ["Ludvik Toplak", 180], ["Miran Potrč", 39], ["Ludvik Toplak", 4], ["Miran Potrč", 27], ["Ludvik Toplak", 121], ["Emil Pintar", 137], ["Ludvik Toplak", 4], ["Viktor Žakelj", 19], ["Ludvik Toplak", 6], ["France Zagožen", 33], ["Ludvik Toplak", 90], ["Emil Pintar", 14], ["Ludvik Toplak", 7], ["Emil Pintar", 45], ["Ludvik Toplak", 52], [" ", 6], ["Ludvik Toplak", 43], ["Žarko Pregelj", 4], ["Ludvik Toplak", 51], ["Mária Pozsonec", 9], ["Ludvik Toplak", 74], ["France Tomšič", 18], ["Ludvik Toplak", 4], ["France Tomšič", 18], ["Ludvik Toplak", 791], ["France Tomšič", 12], ["Ludvik Toplak", 15], ["Janez Kopač", 67], ["Ludvik Toplak", 170], ["Miran Potrč", 101], ["Ludvik Toplak", 5], ["France Tomšič", 30], ["Ludvik Toplak", 62]]
 			],
 			[
-				["1991-10-09T14:36:00", "null"],
-				[["Ludvik Toplak", 110], ["Emil Pintar", 67], ["Ludvik Toplak", 30], ["France Zagožen", 25], ["Ludvik Toplak", 2], ["Emil Pintar", 50], ["Ludvik Toplak", 13], ["France Zagožen", 16], ["Ludvik Toplak", 108], ["Emil Pintar", 165], ["Ludvik Toplak", 98], ["Emil Pintar", 184], ["Ludvik Toplak", 155], ["Emil Pintar", 16], ["Ludvik Toplak", 107], ["Emil Pintar", 93], ["Ludvik Toplak", 643], ["Emil Pintar", 175], ["Ludvik Toplak", 16], ["France Zagožen", 29], ["Ludvik Toplak", 90], ["Aleksandra Pretnar", 61], ["Ludvik Toplak", 3], ["Žarko Pregelj", 25], ["Anton Peršak", 33], ["Franc Golija", 97], ["Anton Peršak", 81], ["Emil Pintar", 37], ["Ludvik Toplak", 50], ["Aleksandra Pretnar", 13], ["Ludvik Toplak", 226], ["France Tomšič", 49], ["Ludvik Toplak", 297], ["Aleksandra Pretnar", 24], ["Ludvik Toplak", 32], ["Franc Golija", 11], ["Ludvik Toplak", 55], ["Janez Kopač", 74], ["Ludvik Toplak", 376], ["Lev Kreft", 62], ["Ludvik Toplak", 358], ["Janez Kopač", 103], ["Ludvik Toplak", 169], ["Emil Pintar", 123], ["Ludvik Toplak", 350], ["Jože Smole", 121], ["Ludvik Toplak", 3], ["Dušan Semolič", 63], ["Ludvik Toplak", 4], ["Emil Pintar", 182], ["Ludvik Toplak", 3], ["Janez Kocijančič", 232], ["Ludvik Toplak", 2], ["France Zagožen", 34], ["Ludvik Toplak", 2], ["Mile Šetinc", 175], ["Ludvik Toplak", 4], ["France Tomšič", 185], ["Ludvik Toplak", 3], ["France Bučar", 156], ["Ludvik Toplak", 11], ["Andrej Capuder", 32], ["Ludvik Toplak", 10], ["Borut Šuklje", 64], ["Ludvik Toplak", 5], ["Anton Tomažič", 69], ["Ludvik Toplak", 5], ["Viktor Žakelj", 89], ["Ludvik Toplak", 2], ["Ivan Tomše", 150], ["Ludvik Toplak", 4], ["Rajko Pirnat", 90], ["Ludvik Toplak", 5], ["Andrej Magajna", 53], ["Ludvik Toplak", 4], ["Darja Lavtižar", 39], ["Ludvik Toplak", 3], ["Lev Kreft", 92], ["Ludvik Toplak", 29], ["France Zagožen", 109], ["Ludvik Toplak", 11], ["Janez Kocijančič", 12], ["Ludvik Toplak", 1], ["Janez Kocijančič", 10], ["Ludvik Toplak", 4], ["Emil Pintar", 92], ["Ludvik Toplak", 2], ["Emil Pintar", 28], ["Ludvik Toplak", 56], ["Miran Potrč", 73], ["Ludvik Toplak", 5], ["Aleksandra Pretnar", 71], ["Ludvik Toplak", 4], ["Žarko Pregelj", 118], ["Ludvik Toplak", 1], ["Ivan Pučnik", 100], ["Ludvik Toplak", 4], ["France Bučar", 28], ["Ludvik Toplak", 23], ["Peter Bekeš", 240], ["Ludvik Toplak", 9], ["Jožef Školč", 197], ["Ludvik Toplak", 87], ["Franc Golija", 64], ["Ludvik Toplak", 27], ["Ivan Tomše", 50], ["Ludvik Toplak", 99], ["France Zagožen", 18], ["Ludvik Toplak", 10]]
-			],
-			[
 				["1991-10-10T10:45:00", "1991-10-10T10:50:00"],
 				[["Ludvik Toplak", 46], ["Andrej Capuder", 7], ["Ludvik Toplak", 2], ["Franc Potočnik", 27], ["Ludvik Toplak", 14], ["France Tomšič", 25], ["Ludvik Toplak", 1], ["France Tomšič", 5], ["Ludvik Toplak", 22], ["Borut Pahor", 62], ["Ludvik Toplak", 22]]
 			],
 			[
 				["1991-10-10T11:16:00", "1991-10-10T12:45:00"],
 				[["Ludvik Toplak", 247], ["France Tomšič", 42], ["Ludvik Toplak", 5], ["Jožef Školč", 122], ["Ludvik Toplak", 50], ["Jožef Školč", 55], ["Ludvik Toplak", 3], ["Alojz Peterle", 15], ["Ludvik Toplak", 3], ["Ciril Ribičič", 123], ["Ludvik Toplak", 2], ["Alojz Peterle", 124], ["Ludvik Toplak", 3], ["Ciril Ribičič", 88], ["Ludvik Toplak", 108], ["Jože Smole", 85], ["Ludvik Toplak", 1], ["Anton Peršak", 74], ["Ludvik Toplak", 7], ["Ignac Polajnar", 41], ["Ludvik Toplak", 3], ["Aleksandra Pretnar", 35], ["Ludvik Toplak", 10], ["Ivan Pučnik", 52], ["Ludvik Toplak", 3], ["Janez Kocijančič", 122], ["Ludvik Toplak", 3], ["Emil Pintar", 148], ["Ludvik Toplak", 5], ["Stanko Buser", 51], ["Ludvik Toplak", 3], ["Darja Lavtižar", 45], ["Ludvik Toplak", 6], ["Milan Balažic", 152], ["Ludvik Toplak", 7], ["Božo Kuharič", 31], ["Ludvik Toplak", 82], ["Jožef Školč", 150], ["Ludvik Toplak", 194], ["Borut Pahor", 145], ["Ludvik Toplak", 4], ["Anton Peršak", 237], ["Ludvik Toplak", 4], ["Dušan Semolič", 253], ["Anton Peršak", 2], ["Franc Pivec", 162], ["Anton Peršak", 2], ["Bogomir Vaupotič", 82], ["Anton Peršak", 2], ["Mária Pozsonec", 59], ["Anton Peršak", 9], ["Zoran Thaler", 61], ["Anton Peršak", 2], ["Janko Halb", 297], ["Anton Peršak", 2], ["Jože Smole", 425], ["Anton Peršak", 2], ["Franc Potočnik", 172], ["Anton Peršak", 5], ["Leo Šešerko", 18], ["Anton Peršak", 2], ["Marjan Podobnik", 96], ["Ludvik Toplak", 4], ["Žarko Pregelj", 84], ["Ludvik Toplak", 72]]
-			],
-			[
-				["null", "1991-10-24T17:50:00"],
-				[["Ludvik Toplak", 152], ["Ivan Tomše", 211], ["Ludvik Toplak", 2], ["Jože Smole", 42], ["Ludvik Toplak", 52], ["Janez Kopač", 184], ["Ludvik Toplak", 65], ["Janez Kopač", 98], ["Ludvik Toplak", 2], ["Ivan Tomše", 210], ["Ludvik Toplak", 15], ["France Tomšič", 89], ["Ludvik Toplak", 2], ["Janez Kopač", 11], ["Ludvik Toplak", 79], ["Janez Kopač", 69], ["Ludvik Toplak", 2], ["France Tomšič", 41], ["Ludvik Toplak", 8], ["Vane Gošnik", 25], ["Ludvik Toplak", 23], ["Božidar Voljč", 44], ["Ludvik Toplak", 8]]
 			],
 			[
 				["1991-10-24T18:00:00", "1991-10-24T18:20:00"],
@@ -1086,14 +1042,6 @@ data[0] =
 				[["Ludvik Toplak", 116], ["Anton Peršak", 91], ["Ludvik Toplak", 6], ["Jože Smole", 76], ["Ludvik Toplak", 77], ["Božidar Voljč", 204], ["Ludvik Toplak", 32], ["Jože Smole", 63], ["Ludvik Toplak", 4], ["Sonja Lokar", 251], ["Ludvik Toplak", 13], ["Metka Mencin", 67], ["Ludvik Toplak", 25], ["Jožef Školč", 57], ["Ludvik Toplak", 4], ["Drago Plešivčnik", 37], ["Ludvik Toplak", 3], ["Peter Bekeš", 73], ["Ludvik Toplak", 196], ["Anton Peršak", 4], ["Jože Smole", 126], ["Ludvik Toplak", 4], ["Ignac Polajnar", 28], ["Ludvik Toplak", 5], ["Božidar Voljč", 398], ["Ludvik Toplak", 4], ["France Tomšič", 165], ["Ludvik Toplak", 4], ["Franco Juri", 231], ["Ludvik Toplak", 4], ["Jožef Školč", 228], ["Ludvik Toplak", 3], ["Lev Kreft", 110], ["Andrej Magajna", 197], ["Miran Potrč", 206], ["Ludvik Toplak", 160], ["Anton Peršak", 4], ["Jože Smole", 61], ["Anton Peršak", 4], ["Darja Lavtižar", 38], ["Anton Peršak", 7], ["Ludvik Toplak", 11], ["Anton Peršak", 2], ["Ivan Pučnik", 84], ["Anton Peršak", 5], ["Darja Lavtižar", 79], ["Anton Peršak", 5], ["Božidar Voljč", 64], ["Anton Peršak", 181], ["Metka Mencin", 140], ["Anton Peršak", 3], ["Jože Smole", 58], ["Anton Peršak", 209], ["Peter Bekeš", 56], ["Anton Peršak", 40], ["Slavko Debelak", 194], ["Anton Peršak", 21], ["Slavko Debelak", 44], ["Anton Peršak", 13], ["Jože Smole", 47], ["Anton Peršak", 6], ["France Tomšič", 56], ["Anton Peršak", 5], ["France Tomšič", 5], ["Anton Peršak", 17], ["Mária Pozsonec", 24], ["Anton Peršak", 104], ["Žarko Pregelj", 29], ["Anton Peršak", 3], ["Žarko Pregelj", 2], ["Anton Peršak", 105], ["Tone Košir", 697], ["Anton Peršak", 9], ["Božidar Voljč", 480], ["Anton Peršak", 156], ["Drago Plešivčnik", 474], ["Anton Peršak", 19], ["Sonja Lokar", 456], ["Anton Peršak", 15], ["Sonja Lokar", 9], ["Anton Peršak", 29]]
 			],
 			[
-				["1991-10-24T14:03:00", "null"],
-				[["Anton Peršak", 96], ["Slavko Debelak", 83], ["Anton Peršak", 70], ["Dušan Semolič", 166], ["Anton Peršak", 4], ["Dušan Semolič", 3], ["Anton Peršak", 3], ["Dušan Semolič", 5], ["Anton Peršak", 14], ["Metka Mencin", 33], ["Anton Peršak", 33], ["Metka Mencin", 537], ["Anton Peršak", 2], ["Lev Kreft", 600], ["Božidar Voljč", 4], ["Anton Peršak", 34], ["Stanko Buser", 55], ["Jože Magdič", 187], ["Božidar Voljč", 295], ["Metka Mencin", 54], ["Anton Peršak", 2], ["Zvone Žagar", 210], ["Anton Peršak", 26], ["Jože Magdič", 74], ["Anton Peršak", 3], ["Sonja Lokar", 389], ["Anton Peršak", 5], ["Matija Malešič", 536], ["Anton Peršak", 218], ["Jože Magdič", 65], ["Anton Peršak", 157], ["Božidar Voljč", 289], ["Anton Peršak", 8], ["Dušan Semolič", 213], ["Katja Boh", 91], ["Aleksandra Pretnar", 177], ["Viktor Žakelj", 624], ["Anton Peršak", 4], ["Jože Smole", 31], ["Anton Peršak", 47], ["Zvone Žagar", 187], ["Anton Peršak", 4], ["Metka Mencin", 267], ["Anton Peršak", 2], ["Božo Kuharič", 130], ["Anton Peršak", 2], ["Miran Potrč", 375], ["Anton Peršak", 13], ["Jože Magdič", 75], ["Anton Peršak", 61], ["Sonja Lokar", 55], ["Anton Peršak", 15], ["Metka Mencej", 48], ["Anton Peršak", 3], ["Božidar Voljč", 52], ["Anton Peršak", 22], ["Sonja Lokar", 26], ["Anton Peršak", 182], ["Aleksandra Pretnar", 18], ["Anton Peršak", 33], ["Ludvik Toplak", 35], ["Ivan Remškar", 346], ["Ludvik Toplak", 14], ["Anton Peršak", 150], ["Ludvik Toplak", 5], ["Stanko Buser", 98], ["Ludvik Toplak", 5], ["Vane Gošnik", 186], ["Ludvik Toplak", 3], ["Jože Magdič", 89], ["Ludvik Toplak", 5], ["Zvone Žagar", 66], ["Ludvik Toplak", 3], ["Darja Lavtižar", 80], ["Stanko Buser", 65], ["Ludvik Toplak", 45], ["Božidar Voljč", 37], ["Ludvik Toplak", 85], ["Franc Pivec", 268], ["France Zagožen", 62], ["Gregor Golobič", 215], ["Marjan Podobnik", 111], ["Jožef Školč", 109], ["Franc Pivec", 32], ["France Zagožen", 25], ["Miran Potrč", 137], ["Ludvik Toplak", 2], ["Franc Potočnik", 34], ["Ludvik Toplak", 3], ["Janez Kopač", 186], ["Ludvik Toplak", 21], ["France Zagožen", 170], ["Ludvik Toplak", 3], ["Andrej Magajna", 89], ["Ludvik Toplak", 10], ["Alojz Grabner", 69], ["Ludvik Toplak", 13], ["Gregor Golobič", 50], ["Ludvik Toplak", 4], ["Gregor Golobič", 139], ["Ludvik Toplak", 162]]
-			],
-			[
-				["null", "1991-10-24T18:52:00"],
-				[["Ludvik Toplak", 65], ["Božidar Voljč", 49], ["Ludvik Toplak", 99], ["Janez Kopač", 109], ["Ludvik Toplak", 46], ["Božidar Voljč", 320], ["Janez Kopač", 101], ["Ludvik Toplak", 119], ["Anton Peršak", 35], ["Ludvik Toplak", 197], ["Metka Mencin", 11], ["Ludvik Toplak", 126]]
-			],
-			[
 				["1991-10-30T10:30:00", "1991-10-30T15:22:00"],
 				[["Ludvik Toplak", 344], ["Janez Kocijančič", 249], ["Ludvik Toplak", 65], ["Jožica Puhar", 596], ["Ludvik Toplak", 8], ["Metka Mencin", 328], ["Ludvik Toplak", 6], ["Anton Peršak", 412], ["Ludvik Toplak", 4], ["Dušan Semolič", 325], ["Anton Peršak", 3], ["Darja Lavtižar", 355], ["Borut Šuklje", 470], ["Janez Kopač", 416], ["Anton Peršak", 27], ["Božidar Voljč", 208], ["Franc Pivec", 474], ["Anton Peršak", 3], ["Andrej Magajna", 281], ["Anton Peršak", 3], ["Janez Lampret", 427], ["Anton Peršak", 3], ["Štefan Kociper", 442], ["Anton Peršak", 5], ["Andrej Verlič", 94], ["Anton Peršak", 5], ["Andrej Magajna", 118], ["Anton Peršak", 5], ["Štefan Kociper", 91], ["Anton Peršak", 74], ["Borut Šuklje", 39], ["Metka Mencin", 104], ["Anton Peršak", 4], ["Zvone Žagar", 225], ["Anton Peršak", 6], ["Ignac Polajnar", 265], ["Anton Peršak", 2], ["Franc Potočnik", 96], ["Anton Peršak", 3], ["Ivan Pučnik", 96], ["Anton Peršak", 6], ["Jože Magdič", 109], ["Anton Peršak", 3], ["Božo Kuharič", 162], ["Anton Peršak", 3], ["France Tomšič", 199], ["Darja Lavtižar", 99], ["Žarko Pregelj", 217], ["Mihaela Logar", 170], ["Hubert Požarnik", 58], ["Ludvik Toplak", 114], ["Anton Peršak", 65], ["Žarko Pregelj", 22], ["Anton Peršak", 14], ["Jožica Puhar", 79], ["Anton Peršak", 6], ["Jože Smole", 91], ["Anton Peršak", 63], ["Jože Smole", 11], ["Anton Peršak", 4], ["Jože Smole", 14], ["Anton Peršak", 46], ["Franc Potočnik", 29], ["Anton Peršak", 99], ["Ivan Tomše", 57], ["Anton Peršak", 31], ["Jožica Puhar", 30], ["Anton Peršak", 98], ["Janez Kocijančič", 126], ["Anton Peršak", 11], ["Jože Smole", 12], ["Anton Peršak", 11], ["Anton Tomažič", 7], ["Anton Peršak", 4], ["Jože Magdič", 28], ["Anton Peršak", 15], ["Mojmir Ocvirk", 137], ["Anton Peršak", 13], ["Mojmir Ocvirk", 34], ["Anton Peršak", 47], ["Janez Kocijančič", 56], ["Anton Peršak", 29], ["Ludvik Toplak", 2], ["Anton Peršak", 23], ["Mojmir Ocvirk", 27], ["Anton Peršak", 110], ["Miha Jazbinšek", 937], ["Anton Peršak", 11], ["Hubert Požarnik", 130], ["Anton Peršak", 7], ["Ludvik Toplak", 449], ["Anton Peršak", 76]]
 			],
@@ -1131,10 +1079,6 @@ data[0] =
 			[
 				["1991-11-21T10:19:00", "1991-11-21T12:05:00"],
 				[["Anton Peršak", 221], ["Sonja Lokar", 124], ["Anton Peršak", 3], ["Zvone Žagar", 162], ["Anton Peršak", 3], ["Mile Šetinc", 391], ["Anton Peršak", 2], ["Janez Kocijančič", 251], ["Anton Peršak", 2], ["Slavko Kmetič", 306], ["Anton Peršak", 2], ["France Zagožen", 174], ["Anton Peršak", 2], ["Andrej Magajna", 141], ["Anton Peršak", 2], ["Janez Kopač", 282], ["Anton Peršak", 2], ["Aleksandra Pretnar", 102], ["Anton Peršak", 3], ["Hubert Požarnik", 139], ["Anton Peršak", 3], ["Andrej Magajna", 95], ["Anton Peršak", 3], ["Miran Potrč", 253], ["Anton Peršak", 2], ["Janko Halb", 349], ["Anton Peršak", 2], ["Peter Reberc", 66], ["Anton Peršak", 2], ["Franc Pivec", 105], ["Anton Peršak", 4], ["Aleksandra Pretnar", 33], ["Anton Peršak", 2], ["Jože Smole", 274], ["Anton Peršak", 2], ["Mária Pozsonec", 47], ["Anton Peršak", 9], ["Jožica Puhar", 888], ["Anton Peršak", 37], ["Jožica Puhar", 74], ["Anton Peršak", 4], ["Mile Šetinc", 75], ["Anton Peršak", 1], ["Mária Pozsonec", 10], ["Anton Peršak", 5], ["Jožica Puhar", 215], ["Anton Peršak", 2], ["Sonja Lokar", 132], ["Anton Peršak", 2], ["Janko Halb", 44], ["Anton Peršak", 12], ["Franc Pivec", 46], ["Anton Peršak", 76]]
-			],
-			[
-				["null", "null"],
-				[]
 			],
 			[
 				["1991-11-21T16:15:00", "1991-11-21T18:08:00"],
@@ -1416,28 +1360,8 @@ data[0] =
 				[["Ludvik Toplak", 166], ["Miran Potrč", 65], ["Ludvik Toplak", 119], ["Janez Kopač", 127], ["Anton Peršak", 5], [" ", 101], ["Anton Peršak", 14], ["Viktor Žakelj", 108], ["Anton Peršak", 84], ["Janez Kopač", 217], ["Anton Peršak", 4], [" ", 126], ["Anton Peršak", 3], ["Božo Kuharič", 104], ["Anton Peršak", 2], ["Tone Anderlič", 242], ["Anton Peršak", 5], [" ", 175], ["Anton Peršak", 5], ["Tone Anderlič", 52], ["Anton Peršak", 106], ["Franc Pivec", 52], ["Anton Peršak", 4], ["Franc Pivec", 51], ["Anton Peršak", 150], ["Mile Šetinc", 230], ["Anton Peršak", 4], ["Darja Lavtižar", 401], ["Anton Peršak", 4], ["Dušan Semolič", 245], ["Anton Peršak", 16], ["Ivan Tomše", 165], ["Anton Peršak", 3], ["Hubert Požarnik", 365], ["Anton Peršak", 2], ["Peter Bekeš", 615], ["Anton Peršak", 13], ["Jože Tratnik", 349], ["Anton Peršak", 81]]
 			],
 			[
-				["1992-03-18T10:22:00", "null"],
-				[["Ludvik Toplak", 426], ["Miran Potrč", 26]]
-			],
-			[
 				["1992-03-18T12:05:00", "1992-03-18T12:57:00"],
 				[["Ludvik Toplak", 92], ["Janez Lampret", 48], ["Ludvik Toplak", 138], ["Janez Lampret", 225], ["Ludvik Toplak", 7], ["Mile Šetinc", 231], ["Ludvik Toplak", 3], ["Peter Bekeš", 547], ["Ludvik Toplak", 3], ["Darja Lavtižar", 224], ["Ludvik Toplak", 5], ["Hubert Požarnik", 159], ["Ludvik Toplak", 92], ["Rajko Pirnat", 410], ["Ludvik Toplak", 4], ["Janez Kocijančič", 95], ["Ludvik Toplak", 6], ["Rajko Pirnat", 110], ["Ludvik Toplak", 2], ["Peter Bekeš", 236], ["Ludvik Toplak", 93]]
-			],
-			[
-				["1992-03-18T14:16:00", "null"],
-				[]
-			],
-			[
-				["1992-03-18T14:00:00", "null"],
-				[["Ludvik Toplak", 17]]
-			],
-			[
-				["1992-03-18T14:16:00", "null"],
-				[["Ludvik Toplak", 64], ["Aleksandra Pretnar", 16]]
-			],
-			[
-				["1992-03-18T14:37:00", "null"],
-				[["Ludvik Toplak", 157], ["Janez Kopač", 399], ["Anton Peršak", 214], ["Jože Smole", 44], ["Anton Peršak", 4], ["Janez Lampret", 10], ["Anton Peršak", 112], ["Franc Pivec", 74], ["Anton Peršak", 256], ["Jožica Puhar", 77], ["Anton Peršak", 201], ["Darja Lavtižar", 183], ["Anton Peršak", 3], ["Franco Juri", 515], ["Anton Peršak", 2], ["Božidar Voljč", 127], ["Anton Peršak", 2], ["Marija Markeš", 108], ["Anton Peršak", 2], ["Jože Smole", 87], ["Anton Peršak", 2], ["France Tomšič", 106], ["Anton Peršak", 2], ["Peter Reberc", 59], ["Anton Peršak", 17]]
 			]
 		],
 		[["zakon", 912], ["amandma", 809], ["predlog", 485], ["člen", 421], ["vlada", 411], ["zbor", 339], ["hvala", 334], ["predlagati", 297], ["Slovenija", 288], ["prositi", 266]]
@@ -1518,14 +1442,6 @@ data[0] =
 				[["Ludvik Toplak", 159], ["Jožef Jeraj", 1112], ["Anton Peršak", 99], ["Jožef Jeraj", 86], ["Anton Peršak", 521], ["Miran Potrč", 430], ["Anton Peršak", 2], ["Jože Smole", 159], ["Anton Peršak", 2], ["Žarko Pregelj", 200], ["Anton Peršak", 5], ["Miha Jazbinšek", 919], ["Anton Peršak", 2], ["Peter Reberc", 62], ["Anton Peršak", 344], ["Franc Potočnik", 20], ["Anton Peršak", 142], ["Ciril Kolešnik", 62], ["Vane Gošnik", 476], ["Anton Peršak", 176]]
 			],
 			[
-				["1992-03-25T14:35:00", "null"],
-				[["Anton Peršak", 112], ["Rudi Šeligo", 334], ["Anton Peršak", 2], ["Andrej Capuder", 223], ["Anton Peršak", 391], ["Hubert Požarnik", 63], ["Anton Peršak", 2], ["Janez Kopač", 53], ["Anton Peršak", 18], ["Stanko Buser", 214], ["Anton Peršak", 2], ["Borut Šuklje", 302], ["Anton Peršak", 2], ["Žarko Pregelj", 13], ["Anton Peršak", 7], ["Žarko Pregelj", 106], ["Anton Peršak", 6], ["Stanko Buser", 148], ["Anton Peršak", 5], ["Stane Peterlin", 23], ["Anton Peršak", 78]]
-			],
-			[
-				["null", "1992-03-27T14:30:00"],
-				[["Ludvik Toplak", 77], ["Žarko Pregelj", 18], ["Ludvik Toplak", 25], ["Stanko Buser", 77], ["Ludvik Toplak", 83], ["Vane Gošnik", 117], ["Ludvik Toplak", 8], ["Vane Gošnik", 2], ["Ludvik Toplak", 7], ["Stanko Buser", 22], ["Ludvik Toplak", 4], ["Andrej Capuder", 25], ["Ludvik Toplak", 168], ["Anton Peršak", 58], ["Ludvik Toplak", 6], ["Andrej Capuder", 44], ["Ludvik Toplak", 4], ["Rudi Šeligo", 80], ["Anton Peršak", 11], ["Žarko Pregelj", 89], ["Anton Peršak", 4], ["Miran Potrč", 69], ["Anton Peršak", 7], ["Rudi Šeligo", 28], ["Anton Peršak", 3], ["Stanko Buser", 29], ["Anton Peršak", 5], ["Stanko Buser", 15], ["Anton Peršak", 133]]
-			],
-			[
 				["1992-04-09T11:00:00", "1992-04-09T11:05:00"],
 				[["Ludvik Toplak", 227]]
 			],
@@ -1604,10 +1520,6 @@ data[0] =
 				[["Ludvik Toplak", 86], ["Božidar Kranjčič", 125], ["Ludvik Toplak", 56]]
 			],
 			[
-				["1992-05-20T10:00:00", "null"],
-				[["Anton Peršak", 87]]
-			],
-			[
 				["1992-05-20T12:05:00", "1992-05-20T14:00:00"],
 				[["Ludvik Toplak", 368], ["Michele Voyer", 508], ["Ludvik Toplak", 33], ["Franco Juri", 137], ["Ludvik Toplak", 3], ["Jože Smole", 156], ["Ludvik Toplak", 4], ["Anton Peršak", 211], ["Ludvik Toplak", 15], ["Aleksandra Pretnar", 52], ["Ludvik Toplak", 4], ["Ignac Polajnar", 88], ["Ludvik Toplak", 4], ["Jože Magdič", 76], ["Ludvik Toplak", 4], ["Zvone Žagar", 70], ["Ludvik Toplak", 6], ["Sonja Lokar", 114], ["Ludvik Toplak", 8], ["Michele Voyer", 924], ["Ludvik Toplak", 8], ["Ciril Kolešnik", 179], ["Ludvik Toplak", 3], ["Borut Pahor", 63], ["Ludvik Toplak", 35], ["Miran Bogataj", 42], ["Ludvik Toplak", 21], ["Miran Bogataj", 396], ["Ludvik Toplak", 7], ["Jože Magdič", 63], ["Ludvik Toplak", 11], ["Bogomil Brvar", 578], ["Ludvik Toplak", 7], ["Franco Juri", 406], ["Ludvik Toplak", 16], ["Bogomil Brvar", 185], ["Ludvik Toplak", 12]]
 			],
@@ -1630,14 +1542,6 @@ data[0] =
 			[
 				["1992-06-03T13:30:00", "1992-06-03T13:15:00"],
 				[["Ludvik Toplak", 494], ["Zvone Žagar", 420], ["Ludvik Toplak", 5], ["Franco Juri", 709], ["Ludvik Toplak", 4], ["Zvone Žagar", 90], ["Ludvik Toplak", 4], ["Franco Juri", 54], ["Ludvik Toplak", 5], ["Aleksandra Pretnar", 83], ["Ludvik Toplak", 64], ["Božidar Voljč", 317], ["Ludvik Toplak", 5], ["Borut Pahor", 303], ["Ludvik Toplak", 4], ["Anton Peršak", 312], ["Ludvik Toplak", 3], ["Žarko Pregelj", 270], ["Ludvik Toplak", 3], ["Andrej Magajna", 134], ["Ludvik Toplak", 3], ["Zvone Žagar", 70], ["Ludvik Toplak", 3], ["Stanko Buser", 110], ["Ludvik Toplak", 337], ["Franco Juri", 118], ["Ludvik Toplak", 5], ["Stanko Buser", 74], ["Ludvik Toplak", 5], ["Janez Janša", 869], ["Ludvik Toplak", 306], ["Borut Pahor", 20], ["Ludvik Toplak", 29], [" ", 2], ["Ludvik Toplak", 1], [" ", 6], ["Ludvik Toplak", 10], ["Žarko Pregelj", 20], ["Ludvik Toplak", 58]]
-			],
-			[
-				["1992-07-16T14:45:00", "null"],
-				[["Anton Peršak", 289]]
-			],
-			[
-				["null", "1992-07-29T17:00:00"],
-				[["Anton Peršak", 107]]
 			]
 		],
 		[["zakon", 586], ["begunec", 366], ["Slovenija", 313], ["predlog", 289], ["vlada", 198], ["republika", 197], ["zbor", 196], ["hvala", 194], ["država", 193], ["osnutek", 180]]
@@ -1667,24 +1571,8 @@ data[0] =
 				[["Ludvik Toplak", 280], ["Ciril Kolešnik", 30], ["Ludvik Toplak", 19], ["Janez Kopač", 20], ["Ludvik Toplak", 7], ["Janez Kopač", 9], ["Ludvik Toplak", 9], ["Janez Kopač", 15], ["Ludvik Toplak", 181], ["Marija Markeš", 112], ["Ludvik Toplak", 4], ["Marija Markeš", 489], ["Ludvik Toplak", 10], ["Franc Potočnik", 71], ["Ludvik Toplak", 4], ["Miran Potrč", 517], ["Ludvik Toplak", 5], ["Marjan Podobnik", 212], ["Ludvik Toplak", 7], ["Anton Tomažič", 56], ["Ludvik Toplak", 278], ["Žarko Pregelj", 218], ["Ludvik Toplak", 69]]
 			],
 			[
-				["null", "null"],
-				[["Ludvik Toplak", 114]]
-			],
-			[
 				["1992-06-17T15:46:00", "1992-06-17T17:05:00"],
 				[["Anton Peršak", 110], ["Franc Pivec", 216], ["Anton Peršak", 2], ["Peter Bekeš", 93], ["Anton Peršak", 3], ["Peter Reberc", 86], ["Anton Peršak", 2], ["Božo Kuharič", 151], ["Anton Peršak", 153], ["Ivan Lapajne", 277], ["Anton Peršak", 12], ["Dušan Semolič", 683], ["Anton Peršak", 4], ["Milan Balažic", 245], ["Anton Peršak", 21], ["Milan Balažic", 232], ["Anton Peršak", 6], ["Sonja Lokar", 242], ["Anton Peršak", 3], ["France Tomšič", 440], ["Anton Peršak", 1], ["Slavko Kmetič", 294], ["Anton Peršak", 1], ["Žarko Pregelj", 127], ["Anton Peršak", 5], ["Janez Gajšek", 377], ["Anton Peršak", 14], ["Ivan Lapajne", 146], ["Anton Peršak", 138]]
-			],
-			[
-				["null", "1992-07-01T13:35:00"],
-				[["Anton Peršak", 340], ["Metka Mencin", 56], ["Anton Peršak", 195], ["Sonja Lokar", 244], ["Anton Peršak", 38], ["Sonja Lokar", 25], ["Anton Peršak", 50], ["Metka Mencin", 15], ["Anton Peršak", 154]]
-			],
-			[
-				["1992-07-01T16:15:00", "null"],
-				[["Anton Peršak", 79], ["Ludvik Toplak", 24], ["Vane Gošnik", 86], ["Ludvik Toplak", 75], ["Vane Gošnik", 103], ["Ludvik Toplak", 119]]
-			],
-			[
-				["null", "1992-07-17T11:47:00"],
-				[["Anton Peršak", 116], ["Stanko Buser", 55], ["Anton Peršak", 19], ["Stanko Buser", 6], ["Anton Peršak", 4], ["Ivan Tomše", 196], ["Anton Peršak", 61], ["Ivan Tomše", 37], ["Anton Peršak", 22], ["Aleksandra Pretnar", 24], ["Anton Peršak", 2], ["Vane Gošnik", 68], ["Anton Peršak", 134], ["Stanko Buser", 56], ["Anton Peršak", 75], ["Ivan Tomše", 122], ["Anton Peršak", 103]]
 			],
 			[
 				["1992-07-29T17:00:00", "1992-07-29T17:10:00"],
@@ -1732,22 +1620,6 @@ data[0] =
 			[
 				["1992-06-17T17:05:00", "1992-06-17T19:05:00"],
 				[["Anton Peršak", 220], ["Emil Pintar", 1221], ["Anton Peršak", 9], ["Davorin Kračun", 110], ["Anton Peršak", 46], ["Milan Balažic", 580], ["Anton Peršak", 1], ["Dušan Semolič", 568], ["Anton Peršak", 3], ["Andrej Magajna", 235], ["Anton Peršak", 2], ["Miran Potrč", 643], ["Anton Peršak", 2], ["Vane Gošnik", 114], ["Anton Peršak", 2], ["Emil Pintar", 3], ["Anton Peršak", 7], ["Izidor Rejc", 852], ["Anton Peršak", 26], ["Hubert Požarnik", 402], ["Anton Peršak", 3], ["France Zagožen", 216], ["Anton Peršak", 76], ["Anton Tomažič", 318], ["Anton Peršak", 7], ["France Tomšič", 262], ["Anton Peršak", 4], ["Miran Potrč", 66], ["Anton Peršak", 7], ["Bojan Pečenko", 475], ["Anton Peršak", 10], ["Mile Šetinc", 424], ["Anton Peršak", 144]]
-			],
-			[
-				["null", "null"],
-				[["Anton Peršak", 292], ["Ignac Polajnar", 36], ["Anton Peršak", 14], ["Spomenka Hribar", 37], ["Anton Peršak", 138], ["Spomenka Hribar", 5], ["Anton Peršak", 15], ["Spomenka Hribar", 2], ["Anton Peršak", 164], ["Stanko Buser", 62], ["Anton Peršak", 50], ["Emil Pintar", 172], ["Anton Peršak", 36], ["Ignac Polajnar", 31], ["Anton Peršak", 7], ["Stanko Buser", 67], ["Anton Peršak", 66]]
-			],
-			[
-				["1992-07-17T10:15:00", "null"],
-				[]
-			],
-			[
-				["1992-07-17T10:30:00", "null"],
-				[["Anton Peršak", 119], ["Dušan Semolič", 72], ["Anton Peršak", 417], ["Dušan Semolič", 197], ["Anton Peršak", 63], ["Branko Grims", 18], ["Anton Peršak", 30], ["Ciril Kolešnik", 78], ["Anton Peršak", 10], ["Ciril Kolešnik", 27], ["Anton Peršak", 17], ["Žarko Pregelj", 100], ["Anton Peršak", 3], ["Janez Kocijančič", 119], ["Anton Peršak", 3], ["Žarko Pregelj", 32], ["Anton Peršak", 127], ["Milan Balažic", 24], ["Anton Peršak", 160]]
-			],
-			[
-				["null", "1992-07-29T16:57:00"],
-				[["Anton Peršak", 56]]
 			]
 		],
 		[["zakon", 1019], ["predlog", 531], ["zbor", 522], ["stranka", 363], ["hvala", 351], ["volilen", 330], ["predlagati", 326], ["sistem", 322], ["morati", 302], ["komisija", 288]]
@@ -1761,24 +1633,12 @@ data[0] =
 				[["Ludvik Toplak", 161], ["Anton Peršak", 30], ["Ludvik Toplak", 527], ["Štefan Kociper", 204], ["Ludvik Toplak", 29], ["Janez Kopač", 80], ["Ludvik Toplak", 2], ["Štefan Kociper", 35], ["Ludvik Toplak", 296], ["Vane Gošnik", 175], ["Ludvik Toplak", 13], ["Miran Potrč", 160], ["Ludvik Toplak", 3], ["Vane Gošnik", 169], ["Ludvik Toplak", 3], ["Miran Potrč", 74], ["Ludvik Toplak", 3], ["Žarko Pregelj", 85], ["Ludvik Toplak", 3], ["Vane Gošnik", 85], ["Ludvik Toplak", 5], ["Franc Avberšek", 403], ["Anton Peršak", 186], ["Anton Tomažič", 33], ["Anton Peršak", 168], ["Ivan Pučnik", 98], ["Anton Peršak", 2], ["Franc Potočnik", 54], ["Anton Peršak", 5], ["Marija Markeš", 31], ["Anton Peršak", 34], ["France Zagožen", 26], ["Anton Peršak", 59], ["France Tomšič", 109], ["Anton Peršak", 70], ["France Tomšič", 24], ["Anton Peršak", 58], ["Franc Potočnik", 195], ["Anton Peršak", 9], ["France Tomšič", 59], ["Anton Peršak", 61], ["Hubert Požarnik", 76], ["Anton Peršak", 261], ["Sonja Lokar", 123], ["Anton Peršak", 96], ["Darja Lavtižar", 193], ["Anton Peršak", 2], ["Dušan Semolič", 147], ["Anton Peršak", 3], ["Franco Juri", 274], ["Anton Peršak", 3], ["Franc Pipan", 100], ["Anton Peršak", 2], ["Jože Magdič", 123], ["Anton Peršak", 2], ["Mária Pozsonec", 275], ["Anton Peršak", 2], ["Andrej Verlič", 160], ["Anton Peršak", 2], ["Vane Gošnik", 9], ["Anton Peršak", 8], ["Vane Gošnik", 409], ["Anton Peršak", 144], ["Jože Magdič", 3], ["Anton Peršak", 7], ["Branko Grims", 21], ["Anton Peršak", 4], ["Jože Smole", 49], ["Anton Peršak", 32], ["Jože Magdič", 13], ["Anton Peršak", 1036], ["Jože Smole", 62], ["Anton Peršak", 2], ["Anton Tomažič", 251], ["Anton Peršak", 4], ["France Tomšič", 46], ["Anton Peršak", 2], ["Janko Halb", 54], ["Anton Peršak", 33], ["Franc Arhar", 80], ["Anton Peršak", 5], ["Anton Tomažič", 75], ["Anton Peršak", 12], ["Stanko Debeljak", 69], ["Anton Peršak", 154], ["Nataša Belopavlovič", 88], ["Anton Peršak", 11], ["Franc Potočnik", 52], ["Anton Peršak", 9], ["Miran Potrč", 176], ["Anton Peršak", 697], ["Ludvik Toplak", 797], ["Janez Kocijančič", 151], ["Ludvik Toplak", 5], ["Janez Kopač", 278], ["Ludvik Toplak", 5], ["Emil Pintar", 370], ["Ludvik Toplak", 10], ["Anton Peršak", 241], ["Ludvik Toplak", 5], ["Janez Gajšek", 137], ["Ludvik Toplak", 5], ["Mile Šetinc", 291], ["Ludvik Toplak", 4], ["France Tomšič", 240], ["Ludvik Toplak", 6], ["Ciril Kolešnik", 211], ["Ludvik Toplak", 7], ["Mitja Gaspari", 1104], ["Ludvik Toplak", 10], ["Emil Pintar", 637], ["Ludvik Toplak", 4], ["Mitja Gaspari", 385], ["Ludvik Toplak", 3], ["Žarko Pregelj", 244], ["Ludvik Toplak", 3], ["Janko Halb", 570], ["Ludvik Toplak", 590], ["Anton Peršak", 6], ["Mitja Gaspari", 28], ["Ludvik Toplak", 20], ["Mitja Gaspari", 60], ["Ludvik Toplak", 4], ["Spomenka Hribar", 25], ["Ludvik Toplak", 3], ["France Tomšič", 95], ["Ludvik Toplak", 4], ["Ciril Kolešnik", 81], ["Ludvik Toplak", 5], ["Mitja Gaspari", 285], ["Ludvik Toplak", 6], ["Ciril Kolešnik", 88], ["Ludvik Toplak", 6], ["France Zagožen", 44], ["Ludvik Toplak", 147], ["Mojmir Ocvirk", 31], ["Ludvik Toplak", 26]]
 			],
 			[
-				["1992-07-02T10:12:00", "null"],
-				[["Ludvik Toplak", 72], ["Jožef Školč", 6], ["Ludvik Toplak", 29], ["Anton Peršak", 9]]
-			],
-			[
 				["1992-07-02T11:35:00", "1992-07-02T13:50:00"],
 				[["Ludvik Toplak", 320], ["Stanko Debeljak", 134], ["Ludvik Toplak", 13], ["Anton Peršak", 173], ["Ludvik Toplak", 3], ["Andrej Magajna", 227], ["Ludvik Toplak", 4], ["Franc Golija", 83], ["Ludvik Toplak", 4], ["Anton Tomažič", 71], ["Ludvik Toplak", 75], ["Stanko Debeljak", 202], ["Ludvik Toplak", 3], ["France Tomšič", 36], ["Ludvik Toplak", 5], ["Franc Arhar", 99], ["Ludvik Toplak", 70], ["Andrej Magajna", 20], ["Ludvik Toplak", 318], ["Vane Gošnik", 695], ["Ludvik Toplak", 14], ["Franc Avberšek", 248], ["Anton Peršak", 17], ["Miran Potrč", 368], ["Anton Peršak", 15], ["Ivan Tomše", 815], ["Anton Peršak", 3], ["Žarko Pregelj", 309], ["Anton Peršak", 8], ["Ciril Kolešnik", 140], ["Anton Peršak", 11], ["Žarko Pregelj", 44], ["Anton Peršak", 3], ["France Zagožen", 53], ["Anton Peršak", 4], ["Franc Avberšek", 446], ["Anton Peršak", 14], ["Ivan Tomše", 200], ["Anton Peršak", 11], ["Izidor Rejc", 88], ["Anton Peršak", 4], ["Tone Anderlič", 87], ["Anton Peršak", 3], ["Franc Avberšek", 66], ["Ludvik Toplak", 2], ["Ciril Kolešnik", 66], ["Anton Peršak", 8], ["Vane Gošnik", 890], ["Anton Peršak", 59], ["Miran Potrč", 28], ["Anton Peršak", 323]]
 			],
 			[
 				["1992-07-02T14:40:00", "1992-07-02T15:06:00"],
 				[["Anton Peršak", 154], ["Spomenka Hribar", 20], ["Anton Peršak", 3]]
-			],
-			[
-				["null", "null"],
-				[["Anton Peršak", 53], ["Hubert Požarnik", 72], ["Anton Peršak", 37]]
-			],
-			[
-				["null", "null"],
-				[["Anton Peršak", 54], ["Marija Markeš", 12], ["Anton Peršak", 122], ["Stanko Buser", 87], ["Anton Peršak", 2], ["Žarko Pregelj", 66], ["Anton Peršak", 2], ["Hubert Požarnik", 59], ["Anton Peršak", 11], ["Vane Gošnik", 46], ["Anton Peršak", 22]]
 			],
 			[
 				["1992-07-23T11:45:00", "1992-07-23T12:10:00"],
@@ -1861,10 +1721,6 @@ data[0] =
 			[
 				["1992-09-29T11:55:00", "1992-09-29T12:05:00"],
 				[["Anton Peršak", 379]]
-			],
-			[
-				["null", "null"],
-				[["Anton Peršak", 283]]
 			]
 		],
 		[["zakon", 617], ["predlog", 388], ["vlada", 379], ["zbor", 261], ["prositi", 258], ["Slovenija", 253], ["točka", 231], ["predlagati", 225], ["red", 225], ["banka", 222]]
@@ -1896,10 +1752,6 @@ data[0] =
 			[
 				["1992-09-16T10:43:00", "1992-09-16T12:00:00"],
 				[["Anton Peršak", 280], ["Jože Tratnik", 303], ["Anton Peršak", 152], ["Miran Potrč", 225], ["Anton Peršak", 10], ["France Tomšič", 106], ["Anton Peršak", 3], ["Marjan Podobnik", 156], ["Anton Peršak", 3], ["Anton Tomažič", 48], ["Anton Peršak", 11], ["Ivan Tomše", 110], ["Anton Peršak", 194]]
-			],
-			[
-				["null", "1992-09-29T11:55:00"],
-				[["Ludvik Toplak", 199], ["Anton Peršak", 284], ["Vane Gošnik", 532], ["Anton Peršak", 15], ["Stanko Buser", 73], ["Anton Peršak", 80]]
 			]
 		],
 		[["zakon", 503], ["zbor", 303], ["predlog", 265], ["poslanec", 220], ["volilen", 218], ["Slovenija", 186], ["vlada", 174], ["hvala", 155], ["komisija", 153], ["morati", 146]]
@@ -2053,10 +1905,6 @@ data[0] =
 			[
 				["1992-10-29T14:30:00", "1992-10-29T14:40:00"],
 				[["Anton Peršak", 10], ["Štefan Kociper", 169], ["Anton Peršak", 143]]
-			],
-			[
-				["1992-11-11T12:17:00", "null"],
-				[["Anton Peršak", 587]]
 			]
 		],
 		[["zakon", 957], ["vlada", 917], ["amandma", 614], ["predlog", 483], ["prositi", 405], ["zbor", 379], ["morati", 355], ["hvala", 354], ["ministrstvo", 316], ["člen", 309]]
@@ -2107,10 +1955,6 @@ data[0] =
 			[
 				["1992-11-04T15:34:00", "1992-11-04T16:42:00"],
 				[["Anton Peršak", 165], ["Martina Lippai", 77], ["Anton Peršak", 20], ["Miran Potrč", 23], ["Anton Peršak", 241], ["Vane Gošnik", 235], ["Anton Peršak", 3], ["Janez Kopač", 149], ["Anton Peršak", 11], ["Ivan Tomše", 185], ["Anton Peršak", 16], ["Janez Breznik", 436], ["Anton Peršak", 2], ["Vane Gošnik", 132], ["Anton Peršak", 4], ["Ivan Tomše", 170], ["Anton Peršak", 357], ["Vane Gošnik", 34], ["Anton Peršak", 11], ["Vane Gošnik", 3], ["Anton Peršak", 270]]
-			],
-			[
-				["null", "1992-11-05T10:26:00"],
-				[["Ludvik Toplak", 12], ["Anton Peršak", 59], ["Ludvik Toplak", 21]]
 			],
 			[
 				["1992-11-05T11:20:00", "1992-11-05T11:26:00"],
