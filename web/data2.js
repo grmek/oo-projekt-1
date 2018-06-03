@@ -2,7 +2,7 @@ data[2] =
 {
 	"Tone Anderlič":
 	[
-		"LDS.1990",
+		"Liberalno demokratska stranka",
 		[0,203,321,0,366,0,0,200,421,0,459,114,27,0,56,0,0,0,0,276,261,0,322,0,0,0,557,0,60,150,433],
 		[["zakon", 3421], ["predlog", 1134], ["amandma", 1114], ["Slovenija", 1096], ["zato", 1046], ["hvala", 1015], ["predlagati", 1010], ["morati", 960], ["reči", 942], ["misliti", 938]]
 	],
@@ -79,7 +79,7 @@ data[2] =
 
 	"Gregor Golobič":
 	[
-		"LDS.1990",
+		"Liberalno demokratska stranka",
 		[159,0,0,0,238,0,176,0,0,0,682,314,224,62,429,0,193,404,746,479,390,0,0,0,0,0,0,0,0,0,0],
 		[["zakon", 3347], ["amandma", 1106], ["predlog", 1101], ["Slovenija", 1037], ["zato", 1017], ["hvala", 990], ["predlagati", 987], ["morati", 931], ["reči", 924], ["misliti", 916]]
 	],
@@ -135,7 +135,7 @@ data[2] =
 
 	"Franco Juri":
 	[
-		"LDS.1990",
+		"Liberalno demokratska stranka",
 		[411,917,2307,0,0,545,1191,2057,1755,329,880,948,1950,229,250,0,892,309,835,576,65,126,2139,1626,731,881,274,0,694,322,456],
 		[["Slovenija", 344], ["zakon", 322], ["vprašanje", 197], ["država", 190], ["misliti", 179], ["predlog", 179], ["zato", 173], ["predlagati", 167], ["republika", 165], ["hvala", 144]]
 	],
@@ -149,7 +149,7 @@ data[2] =
 
 	"Janez Kocijančič":
 	[
-		"SDP",
+		"Socialdemokratska prenova",
 		[68,259,862,0,383,329,352,582,885,77,172,11,0,198,1071,645,184,1791,251,175,393,0,329,621,266,104,317,0,229,429,308],
 		[["zakon", 1701], ["predlog", 960], ["vprašanje", 889], ["misliti", 768], ["morati", 747], ["zbor", 719], ["vlada", 683], ["predlagati", 659], ["Slovenija", 629], ["ampak", 620]]
 	],
@@ -170,14 +170,14 @@ data[2] =
 
 	"Janez Kopač":
 	[
-		"LDS.1990",
+		"Liberalno demokratska stranka",
 		[125,684,1583,0,1023,2234,1280,3682,1365,421,3975,369,1692,2117,1463,1269,2124,2076,1175,2792,2246,640,4291,638,39,44,1283,0,0,2918,706],
 		[["zakon", 2705], ["zato", 919], ["Slovenija", 902], ["predlog", 901], ["hvala", 869], ["misliti", 837], ["reči", 814], ["morati", 810], ["amandma", 795], ["predlagati", 770]]
 	],
 
 	"Štefan Korošec":
 	[
-		"SDP",
+		"Socialdemokratska prenova",
 		[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,498,0,0,0,0,0,0,168,0,0,0,355],
 		[["zakon", 2731], ["misliti", 1314], ["predlog", 1307], ["morati", 1280], ["vprašanje", 1279], ["Slovenija", 1109], ["vlada", 1022], ["predlagati", 998], ["hvala", 964], ["zbor", 925]]
 	],
@@ -191,14 +191,14 @@ data[2] =
 
 	"Lev Kreft":
 	[
-		"SDP",
+		"Socialdemokratska prenova",
 		[233,758,631,0,197,524,580,1444,1090,119,2019,41,4313,955,738,169,1962,1058,2165,252,1486,0,488,0,437,332,741,0,798,0,265],
 		[["zakon", 1618], ["predlog", 937], ["vprašanje", 838], ["zbor", 688], ["morati", 658], ["predlagati", 628], ["misliti", 628], ["vlada", 627], ["amandma", 583], ["hvala", 582]]
 	],
 
 	"Božo Kuharič":
 	[
-		"SDP",
+		"Socialdemokratska prenova",
 		[0,225,0,0,161,446,77,76,378,0,480,0,197,167,0,0,507,323,0,292,143,0,197,79,0,151,485,0,0,0,48],
 		[["zakon", 1977], ["predlog", 1040], ["vprašanje", 974], ["morati", 926], ["misliti", 921], ["zbor", 763], ["Slovenija", 748], ["predlagati", 734], ["vlada", 734], ["ampak", 682]]
 	],
@@ -226,7 +226,7 @@ data[2] =
 
 	"Sonja Lokar":
 	[
-		"SDP",
+		"Socialdemokratska prenova",
 		[0,219,1527,0,75,958,1274,1468,2340,0,2451,1281,1549,821,2356,1083,1297,1186,337,0,1663,179,1540,706,523,1282,1170,0,477,1655,841],
 		[["zakon", 2599], ["predlog", 1260], ["misliti", 1234], ["vprašanje", 1212], ["morati", 1158], ["Slovenija", 1008], ["vlada", 987], ["predlagati", 940], ["hvala", 908], ["zbor", 887]]
 	],
@@ -247,7 +247,7 @@ data[2] =
 
 	"Metka Mencin":
 	[
-		"LDS.1990",
+		"Liberalno demokratska stranka",
 		[10,0,881,0,0,771,504,942,707,0,2131,1739,1395,1136,1662,103,1211,1559,153,1707,929,161,177,0,385,359,981,0,355,551,58],
 		[["zakon", 3219], ["amandma", 1069], ["predlog", 1044], ["Slovenija", 1019], ["zato", 998], ["hvala", 976], ["predlagati", 969], ["morati", 921], ["misliti", 896], ["reči", 894]]
 	],
@@ -261,14 +261,14 @@ data[2] =
 
 	"Mojmir Ocvirk":
 	[
-		"LDS.1990",
+		"Liberalno demokratska stranka",
 		[239,0,834,0,0,592,120,1826,625,150,1691,373,314,259,55,67,54,276,0,0,0,0,188,0,841,0,272,0,313,0,0],
 		[["zakon", 1337], ["Slovenija", 698], ["reči", 603], ["zato", 589], ["misliti", 588], ["predlog", 566], ["skupščina", 544], ["hvala", 535], ["morati", 521], ["vprašanje", 469]]
 	],
 
 	"Borut Pahor":
 	[
-		"SDP",
+		"Socialdemokratska prenova",
 		[0,110,199,0,323,1019,356,419,478,0,850,2126,1867,843,256,288,889,207,252,37,0,0,179,709,311,323,0,0,783,0,28],
 		[["zakon", 2087], ["predlog", 1103], ["misliti", 1060], ["vprašanje", 1057], ["morati", 1015], ["Slovenija", 889], ["vlada", 861], ["predlagati", 815], ["zbor", 814], ["hvala", 759]]
 	],
@@ -296,7 +296,7 @@ data[2] =
 
 	"Franc Pipan":
 	[
-		"SDP",
+		"Socialdemokratska prenova",
 		[0,0,526,0,45,458,959,208,408,0,457,747,82,0,0,346,0,66,296,349,0,0,838,161,174,0,100,0,0,0,11],
 		[["zakon", 2717], ["misliti", 1307], ["predlog", 1301], ["vprašanje", 1274], ["morati", 1267], ["Slovenija", 1104], ["vlada", 1017], ["predlagati", 996], ["hvala", 961], ["zbor", 924]]
 	],
@@ -310,14 +310,14 @@ data[2] =
 
 	"Franc Pivec":
 	[
-		"SDP",
+		"Socialdemokratska prenova",
 		[102,172,433,0,16,0,342,1300,441,98,1417,355,892,1130,369,141,834,1419,977,1185,872,0,1697,0,635,295,790,0,0,0,0],
 		[["zakon", 1948], ["predlog", 1023], ["vprašanje", 973], ["morati", 870], ["misliti", 840], ["zbor", 762], ["Slovenija", 716], ["predlagati", 714], ["vlada", 714], ["ampak", 669]]
 	],
 
 	"Drago Plešivčnik":
 	[
-		"SDP",
+		"Socialdemokratska prenova",
 		[0,588,904,0,110,345,0,92,85,194,944,428,543,180,203,0,594,1065,74,712,379,138,251,86,66,37,50,0,0,157,181],
 		[["zakon", 2644], ["predlog", 1287], ["misliti", 1267], ["vprašanje", 1250], ["morati", 1229], ["Slovenija", 1052], ["vlada", 997], ["predlagati", 955], ["hvala", 932], ["zbor", 907]]
 	],
@@ -345,7 +345,7 @@ data[2] =
 
 	"Miran Potrč":
 	[
-		"SDP",
+		"Socialdemokratska prenova",
 		[291,2659,4440,0,516,1222,487,2869,1864,0,4750,1485,2189,2176,1643,2406,4515,3118,1688,1826,2066,401,6164,730,946,2873,2891,0,3392,1461,1810],
 		[["zakon", 1236], ["predlog", 632], ["vprašanje", 558], ["vlada", 493], ["morati", 465], ["zbor", 460], ["sprejeti", 424], ["predlagati", 415], ["amandma", 411], ["misliti", 410]]
 	],
@@ -401,7 +401,7 @@ data[2] =
 
 	"Ciril Ribičič":
 	[
-		"SDP",
+		"Socialdemokratska prenova",
 		[410,31,1495,0,427,1058,132,638,647,564,215,610,99,58,198,472,1023,817,34,1412,0,0,0,0,0,1521,389,0,69,66,97],
 		[["zakon", 1310], ["predlog", 765], ["vprašanje", 686], ["vlada", 570], ["zbor", 565], ["morati", 532], ["misliti", 514], ["stranka", 477], ["predlagati", 471], ["ampak", 467]]
 	],
@@ -429,7 +429,7 @@ data[2] =
 
 	"Mile Šetinc":
 	[
-		"LDS.1990",
+		"Liberalno demokratska stranka",
 		[235,1370,1762,0,552,813,1377,2104,3247,0,2892,873,1779,642,546,1667,2460,1265,1188,1360,911,142,1374,0,958,1611,769,0,664,820,642],
 		[["zakon", 901], ["Slovenija", 532], ["misliti", 366], ["predlog", 321], ["amandma", 313], ["vprašanje", 305], ["skupščina", 300], ["člen", 294], ["predlagati", 292], ["zato", 292]]
 	],
@@ -443,7 +443,7 @@ data[2] =
 
 	"Jožef Školč":
 	[
-		"LDS.1990",
+		"Liberalno demokratska stranka",
 		[631,751,3782,0,245,667,379,93,628,170,2377,1151,1329,925,0,0,1283,1274,1033,722,0,289,140,32,274,885,981,0,146,592,635],
 		[["zakon", 1214], ["Slovenija", 587], ["misliti", 540], ["zato", 535], ["reči", 524], ["predlog", 507], ["skupščina", 484], ["hvala", 451], ["vprašanje", 431], ["ampak", 422]]
 	],
@@ -464,7 +464,7 @@ data[2] =
 
 	"Zoran Thaler":
 	[
-		"LDS.1990",
+		"Liberalno demokratska stranka",
 		[504,67,418,0,0,375,71,193,81,0,139,1299,744,358,0,0,61,61,0,32,143,117,239,0,0,280,0,0,636,481,68],
 		[["Slovenija", 95], ["zakon", 83], ["glede", 50], ["zbor", 50], ["republika", 50], ["predlagati", 49], ["komisija", 49], ["vlada", 48], ["mednaroden", 47], ["hvala", 46]]
 	],
@@ -499,21 +499,21 @@ data[2] =
 
 	"Bogomir Vaupotič":
 	[
-		"LDS.1990",
+		"Liberalno demokratska stranka",
 		[0,183,151,0,0,89,281,218,573,0,1013,297,343,35,567,113,0,82,163,467,812,0,283,0,85,0,317,0,0,0,0],
 		[["zakon", 3735], ["Slovenija", 1265], ["predlog", 1242], ["amandma", 1214], ["zato", 1148], ["predlagati", 1114], ["hvala", 1109], ["morati", 1040], ["misliti", 1018], ["skupščina", 985]]
 	],
 
 	"Andrej Verlič":
 	[
-		"LDS.1990",
+		"Liberalno demokratska stranka",
 		[0,5,45,0,0,432,464,453,341,0,1077,361,135,722,160,131,63,265,403,242,150,0,678,0,0,0,160,0,119,0,0],
 		[["zakon", 3469], ["Slovenija", 1181], ["predlog", 1146], ["amandma", 1129], ["zato", 1086], ["hvala", 1055], ["predlagati", 1035], ["misliti", 1000], ["morati", 989], ["reči", 957]]
 	],
 
 	"Zdenka Vidovič":
 	[
-		"LDS.1990",
+		"Liberalno demokratska stranka",
 		[0,606,223,0,0,0,564,230,245,0,67,0,641,452,197,426,0,0,0,733,252,0,0,0,71,0,0,0,0,177,0],
 		[["zakon", 3572], ["Slovenija", 1215], ["predlog", 1186], ["amandma", 1165], ["zato", 1107], ["hvala", 1072], ["predlagati", 1067], ["morati", 1012], ["misliti", 1007], ["skupščina", 960]]
 	],
