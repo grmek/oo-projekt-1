@@ -33,7 +33,7 @@ data[0] =
 	"DruzPolZb-s002":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1990-06-13T09:15:00", "1990-06-13T13:00:00"],
@@ -59,7 +59,7 @@ data[0] =
 	"DruzPolZb-s003":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1990-07-02T10:20:00", "1990-07-02T11:40:00"],
@@ -77,7 +77,7 @@ data[0] =
 	"DruzPolZb-s004":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1990-07-18T13:25:00", "1990-07-18T17:40:00"],
@@ -115,7 +115,7 @@ data[0] =
 	"DruzPolZb-s005":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1990-09-27T09:20:00", "1990-09-27T12:45:00"],
@@ -145,7 +145,7 @@ data[0] =
 	"DruzPolZb-s006":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1990-10-12T10:10:00", "1990-10-12T10:30:00"],
@@ -171,7 +171,7 @@ data[0] =
 	"DruzPolZb-s007":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1990-10-25T10:20:00", "1990-10-25T13:20:00"],
@@ -289,7 +289,7 @@ data[0] =
 	"DruzPolZb-s010":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1990-12-19T10:15:00", "1990-12-19T12:45:00"],
@@ -347,7 +347,7 @@ data[0] =
 	"DruzPolZb-s011":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1991-01-23T10:20:00", "1991-01-23T12:45:00"],
@@ -401,7 +401,7 @@ data[0] =
 	"DruzPolZb-s012":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1991-02-20T10:15:00", "1991-02-20T12:45:00"],
@@ -423,7 +423,7 @@ data[0] =
 	"DruzPolZb-s013":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1991-03-05T10:15:00", "1991-03-05T11:00:00"],
@@ -469,7 +469,7 @@ data[0] =
 	"DruzPolZb-s014":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1991-03-14T10:20:00", "1991-03-14T13:30:00"],
@@ -567,7 +567,7 @@ data[0] =
 	"DruzPolZb-s017":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1991-04-17T10:15:00", "1991-04-17T12:40:00"],
@@ -613,7 +613,7 @@ data[0] =
 	"DruzPolZb-s018":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1991-04-24T10:22:00", "1991-04-24T11:07:00"],
@@ -651,7 +651,7 @@ data[0] =
 	"DruzPolZb-s019":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1991-05-09T12:22:00", "1991-05-09T12:25:00"],
@@ -753,7 +753,7 @@ data[0] =
 	"DruzPolZb-s020":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1991-06-12T10:23:00", "1991-06-12T11:35:00"],
@@ -795,7 +795,7 @@ data[0] =
 	"DruzPolZb-s021":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1991-06-19T10:20:00", "1991-06-19T13:00:00"],
@@ -897,7 +897,7 @@ data[0] =
 	"DruzPolZb-s024":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1991-08-28T10:15:00", "1991-08-28T11:00:00"],
@@ -1153,7 +1153,7 @@ data[0] =
 	"DruzPolZb-s028":
 	[
 		[
-			["Anton Peršak"], ["Ludvik Toplak"],
+			["Anton Peršak", "Ludvik Toplak"],
 			[
 				[
 					["1991-11-20T16:52:00", "1991-11-20T20:15:00"],
@@ -1217,7 +1217,7 @@ data[0] =
 	"DruzPolZb-s030":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1991-12-17T10:17:00", "1991-12-17T12:45:00"],
@@ -1469,7 +1469,7 @@ data[0] =
 	"DruzPolZb-s034":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1992-03-11T10:20:00", "1992-03-11T10:53:00"],
@@ -2135,7 +2135,7 @@ data[0] =
 	"DruzPolZb-s050":
 	[
 		[
-			["Ludvik Toplak"], ["Anton Peršak"],
+			["Ludvik Toplak", "Anton Peršak"],
 			[
 				[
 					["1992-11-11T12:30:00", "1992-11-11T13:15:00"],
