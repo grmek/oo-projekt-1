@@ -1,6 +1,6 @@
 data[0] =
 {
-	"DruzPolZb-s001":
+	"1. seja":
 	[
 		[
 			["France Bučar"],
@@ -30,7 +30,7 @@ data[0] =
 		[["zbor", 264], ["predlog", 240], ["skupščina", 183], ["hvala", 138], ["stranka", 135], ["delegat", 126], ["glasovanje", 121], ["predlagati", 120], ["prositi", 117], ["amandma", 116]]
 	],
 
-	"DruzPolZb-s002":
+	"2. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -56,7 +56,7 @@ data[0] =
 		[["predlog", 625], ["hvala", 411], ["Slovenija", 402], ["skupščina", 398], ["zakon", 398], ["svet", 383], ["republika", 360], ["izvršen", 352], ["morati", 317], ["vprašanje", 286]]
 	],
 
-	"DruzPolZb-s003":
+	"3. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -74,7 +74,7 @@ data[0] =
 		[["zakon", 257], ["predlog", 248], ["Slovenija", 176], ["skupščina", 147], ["zbor", 133], ["republika", 132], ["svet", 128], ["izvršen", 121], ["hvala", 113], ["komisija", 111]]
 	],
 
-	"DruzPolZb-s004":
+	"4. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -112,7 +112,7 @@ data[0] =
 		[["predlog", 1033], ["zakon", 862], ["Slovenija", 747], ["skupščina", 647], ["zbor", 629], ["svet", 623], ["hvala", 618], ["izvršen", 578], ["morati", 543], ["reči", 536]]
 	],
 
-	"DruzPolZb-s005":
+	"5. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -142,7 +142,7 @@ data[0] =
 		[["predlog", 421], ["zakon", 398], ["svet", 320], ["skupščina", 317], ["hvala", 310], ["izvršen", 300], ["Slovenija", 292], ["republika", 282], ["zbor", 235], ["predlagati", 217]]
 	],
 
-	"DruzPolZb-s006":
+	"6. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -168,7 +168,7 @@ data[0] =
 		[["predlog", 247], ["razprava", 224], ["ustava", 216], ["osnutek", 159], ["javen", 125], ["ustaven", 123], ["Slovenija", 116], ["predlagati", 112], ["pravica", 112], ["člen", 110]]
 	],
 
-	"DruzPolZb-s007":
+	"7. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -206,7 +206,7 @@ data[0] =
 		[["zakon", 994], ["predlog", 686], ["Slovenija", 576], ["amandma", 476], ["zbor", 468], ["svet", 459], ["hvala", 438], ["prositi", 418], ["skupščina", 404], ["republika", 385]]
 	],
 
-	"DruzPolZb-s008":
+	"8. seja":
 	[
 		[
 			["Ludvik Toplak"],
@@ -244,7 +244,7 @@ data[0] =
 		[["zakon", 1059], ["predlog", 570], ["zbor", 296], ["Slovenija", 275], ["komisija", 267], ["hvala", 263], ["podjetje", 262], ["skupščina", 248], ["republika", 245], ["svet", 243]]
 	],
 
-	"DruzPolZb-s009":
+	"9. seja":
 	[
 		[
 			["Ludvik Toplak"],
@@ -286,7 +286,7 @@ data[0] =
 		[["zakon", 1366], ["predlog", 706], ["hvala", 523], ["Slovenija", 435], ["predlagati", 387], ["člen", 382], ["svet", 379], ["republika", 365], ["morati", 365], ["skupščina", 362]]
 	],
 
-	"DruzPolZb-s010":
+	"10. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -344,7 +344,7 @@ data[0] =
 		[["zakon", 1695], ["amandma", 1175], ["predlog", 855], ["člen", 742], ["hvala", 711], ["predlagati", 677], ["svet", 657], ["morati", 612], ["izvršen", 570], ["zbor", 561]]
 	],
 
-	"DruzPolZb-s011":
+	"11. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -398,7 +398,7 @@ data[0] =
 		[["zakon", 1448], ["amandma", 966], ["predlog", 699], ["predlagati", 647], ["člen", 601], ["zbor", 550], ["hvala", 519], ["Slovenija", 503], ["skupščina", 479], ["svet", 465]]
 	],
 
-	"DruzPolZb-s012":
+	"12. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -420,7 +420,7 @@ data[0] =
 		[["amandma", 194], ["zakon", 181], ["predlog", 176], ["Slovenija", 149], ["republika", 139], ["skupščina", 113], ["hvala", 105], ["komisija", 102], ["predlagati", 98], ["člen", 94]]
 	],
 
-	"DruzPolZb-s013":
+	"13. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -466,7 +466,7 @@ data[0] =
 		[["zakon", 829], ["proračun", 576], ["morati", 506], ["predlog", 422], ["socialen", 418], ["Slovenija", 413], ["hvala", 390], ["misliti", 363], ["gozd", 318], ["politika", 318]]
 	],
 
-	"DruzPolZb-s014":
+	"14. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -488,7 +488,7 @@ data[0] =
 		[["zakon", 471], ["amandma", 394], ["predlog", 301], ["svet", 289], ["zavod", 237], ["člen", 233], ["hvala", 217], ["predlagati", 195], ["glasovati", 175], ["vprašanje", 168]]
 	],
 
-	"DruzPolZb-s015":
+	"15. seja":
 	[
 		[
 			["Ludvik Toplak"],
@@ -522,7 +522,7 @@ data[0] =
 		[["zakon", 698], ["predlog", 292], ["hvala", 190], ["podjetje", 186], ["misliti", 171], ["člen", 166], ["morati", 166], ["predlagati", 152], ["vprašanje", 152], ["privatizacija", 144]]
 	],
 
-	"DruzPolZb-s016":
+	"16. seja":
 	[
 		[
 			["Ludvik Toplak"],
@@ -564,7 +564,7 @@ data[0] =
 		[["amandma", 923], ["zakon", 465], ["glasovati", 420], ["proračun", 413], ["svet", 410], ["izvršen", 375], ["hvala", 372], ["predlog", 363], ["prositi", 360], ["predlagati", 305]]
 	],
 
-	"DruzPolZb-s017":
+	"17. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -610,7 +610,7 @@ data[0] =
 		[["amandma", 651], ["zakon", 563], ["Slovenija", 519], ["skupščina", 415], ["republika", 399], ["predlog", 371], ["komisija", 363], ["člen", 333], ["predlagati", 316], ["hvala", 315]]
 	],
 
-	"DruzPolZb-s018":
+	"18. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -648,7 +648,7 @@ data[0] =
 		[["zakon", 369], ["Slovenija", 283], ["izpit", 281], ["predlog", 259], ["hvala", 208], ["morati", 206], ["skupščina", 205], ["misliti", 198], ["komisija", 195], ["republika", 178]]
 	],
 
-	"DruzPolZb-s019":
+	"19. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -750,7 +750,7 @@ data[0] =
 		[["zakon", 2057], ["amandma", 1601], ["predlog", 1254], ["Slovenija", 1136], ["člen", 1106], ["svet", 1070], ["izvršen", 948], ["hvala", 904], ["predlagati", 891], ["republika", 812]]
 	],
 
-	"DruzPolZb-s020":
+	"20. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -792,7 +792,7 @@ data[0] =
 		[["predlog", 308], ["zakon", 257], ["hvala", 235], ["zbor", 234], ["Slovenija", 225], ["skupščina", 180], ["prositi", 156], ["svet", 153], ["predlagati", 150], ["sklep", 148]]
 	],
 
-	"DruzPolZb-s021":
+	"21. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -830,7 +830,7 @@ data[0] =
 		[["zakon", 569], ["hvala", 277], ["predlog", 277], ["Slovenija", 268], ["vprašanje", 249], ["morati", 235], ["reči", 222], ["prositi", 182], ["predlagati", 179], ["skupščina", 178]]
 	],
 
-	"DruzPolZb-s022":
+	"22. seja":
 	[
 		[
 			["Ludvik Toplak"],
@@ -856,7 +856,7 @@ data[0] =
 		[["zakon", 480], ["morati", 202], ["predlog", 201], ["Slovenija", 190], ["svet", 188], ["hvala", 186], ["zdravstven", 182], ["praznik", 180], ["izvršen", 148], ["predlagati", 141]]
 	],
 
-	"DruzPolZb-s023":
+	"23. seja":
 	[
 		[
 			["Ludvik Toplak"],
@@ -894,7 +894,7 @@ data[0] =
 		[["amandma", 760], ["zakon", 518], ["Slovenija", 500], ["republika", 377], ["skupščina", 371], ["svet", 360], ["izvršen", 318], ["člen", 316], ["prositi", 304], ["zbor", 294]]
 	],
 
-	"DruzPolZb-s024":
+	"24. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -928,7 +928,7 @@ data[0] =
 		[["zakon", 795], ["amandma", 379], ["člen", 312], ["Slovenija", 267], ["predlog", 266], ["morati", 224], ["hvala", 222], ["predlagati", 202], ["republika", 190], ["zato", 174]]
 	],
 
-	"DruzPolZb-s025":
+	"25. seja":
 	[
 		[
 			["Ludvik Toplak"],
@@ -1070,7 +1070,7 @@ data[0] =
 		[["amandma", 2753], ["zakon", 2017], ["člen", 1320], ["komisija", 1161], ["predlagati", 1152], ["predlog", 1150], ["svet", 1090], ["izvršen", 1012], ["hvala", 1003], ["podjetje", 927]]
 	],
 
-	"DruzPolZb-s026":
+	"26. seja":
 	[
 		[
 			["Ludvik Toplak"],
@@ -1100,7 +1100,7 @@ data[0] =
 		[["ime", 141], ["zakon", 137], ["predlog", 130], ["Slovenija", 109], ["banka", 92], ["misliti", 89], ["hvala", 86], ["predlagati", 84], ["morati", 80], ["prositi", 74]]
 	],
 
-	"DruzPolZb-s027":
+	"27. seja":
 	[
 		[
 			["Ludvik Toplak"],
@@ -1150,7 +1150,7 @@ data[0] =
 		[["zakon", 1210], ["predlog", 692], ["morati", 514], ["zdravstvo", 482], ["hvala", 470], ["zdravstven", 464], ["Slovenija", 441], ["člen", 431], ["predlagati", 411], ["zbor", 407]]
 	],
 
-	"DruzPolZb-s028":
+	"28. seja":
 	[
 		[
 			["Anton Peršak", "Ludvik Toplak"],
@@ -1184,7 +1184,7 @@ data[0] =
 		[["zakon", 527], ["hvala", 264], ["zbor", 247], ["predlog", 244], ["Slovenija", 240], ["morati", 219], ["vlada", 215], ["gozd", 210], ["amandma", 209], ["prositi", 207]]
 	],
 
-	"DruzPolZb-s029":
+	"29. seja":
 	[
 		[
 			["Ludvik Toplak"],
@@ -1214,7 +1214,7 @@ data[0] =
 		[["zakon", 492], ["predlog", 214], ["Slovenija", 157], ["predlagati", 143], ["svet", 135], ["morati", 135], ["hvala", 132], ["člen", 130], ["republika", 127], ["amandma", 122]]
 	],
 
-	"DruzPolZb-s030":
+	"30. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -1352,7 +1352,7 @@ data[0] =
 		[["amandma", 2362], ["zakon", 1216], ["predlog", 1126], ["predlagati", 1075], ["člen", 1012], ["hvala", 870], ["zbor", 811], ["Slovenija", 745], ["morati", 729], ["prositi", 719]]
 	],
 
-	"DruzPolZb-s031":
+	"31. seja":
 	[
 		[
 			["Ludvik Toplak"],
@@ -1374,7 +1374,7 @@ data[0] =
 		[["ustava", 253], ["predlog", 103], ["ustaven", 102], ["komisija", 91], ["pravica", 87], ["člen", 80], ["Slovenija", 71], ["država", 69], ["stranka", 63], ["hvala", 56]]
 	],
 
-	"DruzPolZb-s032":
+	"32. seja":
 	[
 		[
 			["Ludvik Toplak"],
@@ -1432,7 +1432,7 @@ data[0] =
 		[["zakon", 942], ["predlog", 414], ["predlagati", 269], ["Slovenija", 269], ["zbor", 235], ["vlada", 225], ["morati", 223], ["prositi", 218], ["hvala", 207], ["republika", 195]]
 	],
 
-	"DruzPolZb-s033":
+	"33. seja":
 	[
 		[
 			["Ludvik Toplak"],
@@ -1466,7 +1466,7 @@ data[0] =
 		[["zakon", 912], ["amandma", 809], ["predlog", 485], ["člen", 421], ["vlada", 411], ["zbor", 339], ["hvala", 334], ["predlagati", 297], ["Slovenija", 288], ["prositi", 266]]
 	],
 
-	"DruzPolZb-s034":
+	"34. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
@@ -1528,7 +1528,7 @@ data[0] =
 		[["amandma", 1076], ["zakon", 747], ["proračun", 718], ["vlada", 616], ["predlog", 615], ["glasovati", 524], ["sredstvo", 480], ["prositi", 460], ["hvala", 442], ["predlagati", 423]]
 	],
 
-	"DruzPolZb-s035":
+	"35. seja":
 	[
 		[
 			["Anton Peršak"],
@@ -1558,7 +1558,7 @@ data[0] =
 		[["zakon", 319], ["hvala", 149], ["predlog", 137], ["člen", 136], ["republika", 132], ["zbor", 125], ["Slovenija", 121], ["vlada", 115], ["prositi", 108], ["predlagati", 105]]
 	],
 
-	"DruzPolZb-s036":
+	"36. seja":
 	[
 		[
 			["Anton Peršak"],
@@ -1612,7 +1612,7 @@ data[0] =
 		[["zakon", 367], ["Slovenija", 350], ["država", 221], ["predlog", 214], ["gozd", 196], ["morati", 191], ["republika", 182], ["odnos", 182], ["misliti", 176], ["hvala", 175]]
 	],
 
-	"DruzPolZb-s037":
+	"37. seja":
 	[
 		[
 			["Anton Peršak"],
@@ -1658,7 +1658,7 @@ data[0] =
 		[["zakon", 586], ["begunec", 366], ["Slovenija", 313], ["predlog", 289], ["vlada", 198], ["republika", 197], ["zbor", 196], ["hvala", 194], ["država", 193], ["osnutek", 180]]
 	],
 
-	"DruzPolZb-s038":
+	"38. seja":
 	[
 		[
 			["Anton Peršak"],
@@ -1696,7 +1696,7 @@ data[0] =
 		[["zakon", 717], ["predlog", 424], ["amandma", 398], ["vlada", 378], ["Slovenija", 338], ["hvala", 320], ["predlagati", 285], ["zbor", 265], ["člen", 205], ["morati", 199]]
 	],
 
-	"DruzPolZb-s039":
+	"39. seja":
 	[
 		[
 			["Anton Peršak"],
@@ -1742,7 +1742,7 @@ data[0] =
 		[["zakon", 1019], ["predlog", 531], ["zbor", 522], ["stranka", 363], ["hvala", 351], ["volilen", 330], ["predlagati", 326], ["sistem", 322], ["morati", 302], ["komisija", 288]]
 	],
 
-	"DruzPolZb-s040":
+	"40. seja":
 	[
 		[
 			["Anton Peršak"],
@@ -1772,7 +1772,7 @@ data[0] =
 		[["zakon", 488], ["vlada", 297], ["predlog", 284], ["Slovenija", 248], ["banka", 232], ["predlagati", 220], ["zbor", 201], ["hvala", 198], ["amandma", 166], ["morati", 163]]
 	],
 
-	"DruzPolZb-s041":
+	"41. seja":
 	[
 		[
 			["Anton Peršak"],
@@ -1798,7 +1798,7 @@ data[0] =
 		[["amandma", 537], ["zakon", 279], ["komisija", 242], ["volilen", 238], ["stranka", 210], ["člen", 200], ["ustaven", 200], ["glasovati", 189], ["predlagati", 167], ["hvala", 158]]
 	],
 
-	"DruzPolZb-s042":
+	"42. seja":
 	[
 		[
 			["Anton Peršak"],
@@ -1852,7 +1852,7 @@ data[0] =
 		[["zakon", 617], ["predlog", 388], ["vlada", 379], ["zbor", 261], ["prositi", 258], ["Slovenija", 253], ["točka", 231], ["predlagati", 225], ["red", 225], ["banka", 222]]
 	],
 
-	"DruzPolZb-s043":
+	"43. seja":
 	[
 		[
 			["Anton Peršak"],
@@ -1886,7 +1886,7 @@ data[0] =
 		[["zakon", 503], ["zbor", 303], ["predlog", 265], ["poslanec", 220], ["volilen", 218], ["Slovenija", 186], ["vlada", 174], ["hvala", 155], ["komisija", 153], ["morati", 146]]
 	],
 
-	"DruzPolZb-s044":
+	"44. seja":
 	[
 		[
 			["Ludvik Toplak"],
@@ -1940,7 +1940,7 @@ data[0] =
 		[["zakon", 553], ["stranka", 395], ["poslanec", 293], ["vlada", 232], ["komisija", 222], ["morati", 221], ["člen", 218], ["misliti", 212], ["predlagati", 203], ["zbor", 199]]
 	],
 
-	"DruzPolZb-s046":
+	"46. seja":
 	[
 		[
 			["Ludvik Toplak"],
@@ -1994,7 +1994,7 @@ data[0] =
 		[["amandma", 594], ["člen", 378], ["poslanec", 357], ["zakon", 341], ["zbor", 275], ["stranka", 257], ["volilen", 234], ["predlagati", 217], ["hvala", 214], ["komisija", 209]]
 	],
 
-	"DruzPolZb-s047":
+	"47. seja":
 	[
 		[
 			["Anton Peršak"],
@@ -2048,7 +2048,7 @@ data[0] =
 		[["zakon", 957], ["vlada", 917], ["amandma", 614], ["predlog", 483], ["prositi", 405], ["zbor", 379], ["morati", 355], ["hvala", 354], ["ministrstvo", 316], ["člen", 309]]
 	],
 
-	"DruzPolZb-s048":
+	"48. seja":
 	[
 		[
 			["Ludvik Toplak"],
@@ -2062,7 +2062,7 @@ data[0] =
 		[["predlog", 31], ["komisija", 31], ["mednaroden", 30], ["zbor", 30], ["seja", 25], ["skupščina", 25], ["poslovnik", 23], ["točka", 22], ["člen", 22], ["Slovenija", 21]]
 	],
 
-	"DruzPolZb-s049":
+	"49. seja":
 	[
 		[
 			["Anton Peršak"],
@@ -2132,7 +2132,7 @@ data[0] =
 		[["zakon", 1316], ["amandma", 1180], ["vlada", 713], ["predlog", 637], ["zbor", 447], ["hvala", 443], ["Slovenija", 443], ["predlagati", 441], ["sprejet", 392], ["ugotavljati", 389]]
 	],
 
-	"DruzPolZb-s050":
+	"50. seja":
 	[
 		[
 			["Ludvik Toplak", "Anton Peršak"],
