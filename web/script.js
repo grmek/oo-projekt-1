@@ -68,7 +68,7 @@ function addVisualizationPotekSeje(visData) {
 	var lineLen = 20;
 	
 	var xLegend = 670;
-	var yLegend = 50;
+	var yLegend = 0;
 	
 	var maxWords = 0;
 	var minWords = Number.MAX_VALUE;
