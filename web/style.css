@@ -1,8 +1,9 @@
 :root {
 	--c1: #005c61;
 	--c2: #00a79d;
-	--c3: #dbffff;
-	--c4: #a7a9ac;
+	--c3: #a7a9ac;
+	--c4: #dbffff;
+	--c5: #00a79d;
 }
 
 body {
@@ -13,7 +14,7 @@ body {
 
 header {
 	padding: 50px;
-	color: var(--c3);
+	color: var(--c4);
 }
 
 h1 {
@@ -26,8 +27,8 @@ button {
 	margin: 0px 10px 0px 10px;
 	border: none;
 	outline: none;
-	color: var(--c3);
-	background-color: var(--c4);
+	color: var(--c4);
+	background-color: var(--c3);
 	cursor: pointer;
 }
 
@@ -48,15 +49,15 @@ select {
 	border: none;
 	outline: none;
 	color: var(--c1);
-	background-color: var(--c3);
+	background-color: var(--c4);
 	cursor: pointer;
 }
 
 .visualization {
-	width: 800px;
+	width: 900px;
 	margin: 20px auto 20px auto;
 	padding: 40px;
-	background-color: var(--c3);
+	background-color: var(--c4);
 }
 
 h2 {
@@ -65,5 +66,5 @@ h2 {
 
 footer {
 	padding: 10px;
-	color: var(--c3);
+	color: var(--c4);
 }

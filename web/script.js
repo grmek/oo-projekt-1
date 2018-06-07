@@ -60,14 +60,14 @@ function jumpTo(pageId, dropdownValue) {
 
 function addVisualizationPotekSeje(visData) {
 	var c1 = getComputedStyle(document.body).getPropertyValue('--c1');
-	var c2 = getComputedStyle(document.body).getPropertyValue('--c2');
+	var c5 = getComputedStyle(document.body).getPropertyValue('--c5');
 	
 	var minDot = 5;
 	var maxDot = 40;
 	var minSpace = 7;
 	var lineLen = 20;
 	
-	var xLegend = 670;
+	var xLegend = 750;
 	var yLegend = 0;
 	
 	var maxWords = 0;
@@ -122,19 +122,29 @@ function addVisualizationPotekSeje(visData) {
 		newVisualization += tStart.getDay() + "." + tStart.getMonth() + "." + tStart.getFullYear() + " " + tStart.getHours() + ":" + ("0" + tStart.getMinutes()).slice(-2) + "<br>";
 		
 		// svg begin
-		newVisualization += "<svg width=\"800\" height=\"" + totalSize + "\" style=\"fill: " + c1 + ";\">"
+		newVisualization += "<svg width=\"900\" height=\"" + totalSize + "\" style=\"fill: " + c1 + ";\">"
 		
 		// legend (for first element only)
 		if (i == 0) {
 			newVisualization += "<line x1=\"" + xLegend + "\" y1=\"" + yLegend + "\" x2=\"" + xLegend + "\" y2=\"" + (yLegend + 22) + "\" style=\"stroke: " + c1 + "; stroke-width: 2;\"/>"
 			newVisualization += "<text x=\"" + (xLegend + 25) + "\" y=\"" + (yLegend + 18) + "\" text-anchor=\"start\">Čas seje.</text>";
 			
-			newVisualization += "<circle cx=\"" + xLegend + "\" cy=\"" + (yLegend + 52) + "\" r=\"5\" style=\"fill: " + c2 + ";\"/>";
+			newVisualization += "<circle cx=\"" + xLegend + "\" cy=\"" + (yLegend + 52) + "\" r=\"8\" style=\"fill: " + c5 + ";\"/>";
 			newVisualization += "<text x=\"" + (xLegend + 25) + "\" y=\"" + (yLegend + 58) + "\" text-anchor=\"start\">Št. besed.</text>";
+			
+			newVisualization += "<line x1=\"" + xLegend + "\" y1=\"" + (yLegend + 80) + "\" x2=\"" + xLegend + "\" y2=\"" + (yLegend + 80 + 24) + "\" style=\"stroke: " + c1 + "; stroke-width: 2;\"/>"
+			newVisualization += "<line x1=\"" + (xLegend - 15) + "\" y1=\"" + (yLegend + 92) + "\" x2=\"" + xLegend + "\" y2=\"" + (yLegend + 92) + "\" style=\"stroke: " + c5 + "; stroke-width: 2;\"/>"
+			newVisualization += "<circle cx=\"" + xLegend + "\" cy=\"" + (yLegend + 92) + "\" r=\"5\" style=\"fill: " + c5 + ";\"/>";
+			newVisualization += "<text x=\"" + (xLegend + 25) + "\" y=\"" + (yLegend + 98) + "\" text-anchor=\"start\">Predsedujoči.</text>";
+			
+			newVisualization += "<line x1=\"" + xLegend + "\" y1=\"" + (yLegend + 120) + "\" x2=\"" + xLegend + "\" y2=\"" + (yLegend + 120 + 24) + "\" style=\"stroke: " + c1 + "; stroke-width: 2;\"/>"
+			newVisualization += "<line x1=\"" + (xLegend + 15) + "\" y1=\"" + (yLegend + 132) + "\" x2=\"" + xLegend + "\" y2=\"" + (yLegend + 132) + "\" style=\"stroke: " + c5 + "; stroke-width: 2;\"/>"
+			newVisualization += "<circle cx=\"" + xLegend + "\" cy=\"" + (yLegend + 132) + "\" r=\"5\" style=\"fill: " + c5 + ";\"/>";
+			newVisualization += "<text x=\"" + (xLegend + 25) + "\" y=\"" + (yLegend + 138) + "\" text-anchor=\"start\">Ostali.</text>";
 		}
 		
 		// main line
-		newVisualization += "<line x1=\"400\" y1=\"0\" x2=\"400\" y2=\"" + totalSize + "\" style=\"stroke: " + c1 + "; stroke-width: 2;\"/>"
+		newVisualization += "<line x1=\"450\" y1=\"0\" x2=\"450\" y2=\"" + totalSize + "\" style=\"stroke: " + c1 + "; stroke-width: 2;\"/>"
 		
 		var position = space;
 		for (var j = 0; j < visData[1][i][1].length; j++) {
@@ -142,7 +152,7 @@ function addVisualizationPotekSeje(visData) {
 			position += dotSize;
 			
 			// dot
-			newVisualization += "<circle cx=\"400\" cy=\"" + position + "\" r=\"" + dotSize + "\" style=\"fill: " + c2 + ";\"/>";
+			newVisualization += "<circle cx=\"450\" cy=\"" + position + "\" r=\"" + dotSize + "\" style=\"fill: " + c5 + ";\"/>";
 			
 			// text side
 			var president = false;
@@ -155,21 +165,21 @@ function addVisualizationPotekSeje(visData) {
 			
 			// text
 			if (president) {
-				newVisualization += "<line x1=\"400\" y1=\"" + position + "\" x2=\"" + (400 - (dotSize + lineLen)) + "\" y2=\"" + position + "\" style=\"stroke: " + c2 + "; stroke-width: 2;\"/>"
+				newVisualization += "<line x1=\"450\" y1=\"" + position + "\" x2=\"" + (450 - (dotSize + lineLen)) + "\" y2=\"" + position + "\" style=\"stroke: " + c5 + "; stroke-width: 2;\"/>"
 				if (visData[1][i][1][j][0] in data[2]) {
-					newVisualization += "<text x=\"" + (400 - (dotSize + 1.5 * lineLen)) + "\" y=\"" + (position + 5) + "\" text-anchor=\"end\" onclick=\"jumpTo(2, '" + visData[1][i][1][j][0] + "')\" style=\"cursor: pointer;\">" + visData[1][i][1][j][0] + "</text>";
+					newVisualization += "<text x=\"" + (450 - (dotSize + 1.5 * lineLen)) + "\" y=\"" + (position + 5) + "\" text-anchor=\"end\" onclick=\"jumpTo(2, '" + visData[1][i][1][j][0] + "')\" style=\"cursor: pointer;\">" + visData[1][i][1][j][0] + "</text>";
 				}
 				else {
-					newVisualization += "<text x=\"" + (400 - (dotSize + 1.5 * lineLen)) + "\" y=\"" + (position + 5) + "\" text-anchor=\"end\" style=\"cursor: default;\">" + visData[1][i][1][j][0] + "</text>";
+					newVisualization += "<text x=\"" + (450 - (dotSize + 1.5 * lineLen)) + "\" y=\"" + (position + 5) + "\" text-anchor=\"end\" style=\"cursor: default;\">" + visData[1][i][1][j][0] + "</text>";
 				}
 			}
 			else {
-				newVisualization += "<line x1=\"400\" y1=\"" + position + "\" x2=\"" + (400 + (dotSize + lineLen)) + "\" y2=\"" + position + "\" style=\"stroke: " + c2 + "; stroke-width: 2;\"/>"
+				newVisualization += "<line x1=\"450\" y1=\"" + position + "\" x2=\"" + (450 + (dotSize + lineLen)) + "\" y2=\"" + position + "\" style=\"stroke: " + c5 + "; stroke-width: 2;\"/>"
 				if (visData[1][i][1][j][0] in data[2]) {
-					newVisualization += "<text x=\"" + (400 + (dotSize + 1.5 * lineLen)) + "\" y=\"" + (position + 5) + "\" text-anchor=\"start\" onclick=\"jumpTo(2, '" + visData[1][i][1][j][0] + "')\" style=\"cursor: pointer;\">" + visData[1][i][1][j][0] + "</text>";
+					newVisualization += "<text x=\"" + (450 + (dotSize + 1.5 * lineLen)) + "\" y=\"" + (position + 5) + "\" text-anchor=\"start\" onclick=\"jumpTo(2, '" + visData[1][i][1][j][0] + "')\" style=\"cursor: pointer;\">" + visData[1][i][1][j][0] + "</text>";
 				}
 				else {
-					newVisualization += "<text x=\"" + (400 + (dotSize + 1.5 * lineLen)) + "\" y=\"" + (position + 5) + "\" text-anchor=\"start\" style=\"cursor: default;\">" + visData[1][i][1][j][0] + "</text>";
+					newVisualization += "<text x=\"" + (450 + (dotSize + 1.5 * lineLen)) + "\" y=\"" + (position + 5) + "\" text-anchor=\"start\" style=\"cursor: default;\">" + visData[1][i][1][j][0] + "</text>";
 				}
 			}
 			
@@ -193,7 +203,7 @@ function addVisualizationPotekSeje(visData) {
 
 function addVisualizationPogosteBesede(visData) {
 	var c1 = getComputedStyle(document.body).getPropertyValue('--c1');
-	var c2 = getComputedStyle(document.body).getPropertyValue('--c2');
+	var c5 = getComputedStyle(document.body).getPropertyValue('--c5');
 	
 	var newVisualization = "";
 	newVisualization += "<div class=\"visualization\">";
@@ -201,7 +211,7 @@ function addVisualizationPogosteBesede(visData) {
 	newVisualization += "<svg width=\"300\" height=\"195\" style=\"fill: " + c1 + ";\">"
 	for (i in visData) {
 		newVisualization += "<text x=\"145\" y=\"" + (11 + (20 * i)) + "\" text-anchor=\"end\">" + visData[i][0] + "</text>";
-		newVisualization += "<rect x=\"155\" y=\"" + (4 + (20 * i)) + "\" width=\"" + (100 * visData[i][1] / visData[0][1]) + "\" height=\"6\" style=\"fill: " + c2 + ";\"/>";
+		newVisualization += "<rect x=\"155\" y=\"" + (4 + (20 * i)) + "\" width=\"" + (100 * visData[i][1] / visData[0][1]) + "\" height=\"6\" style=\"fill: " + c5 + ";\"/>";
 	}
 	newVisualization += "</svg>";
 	newVisualization += "</div>";
@@ -240,14 +250,14 @@ function addVisualizationStranka(visData) {
 
 function addVisualizationAktivnost(visData) {
 	var c1 = getComputedStyle(document.body).getPropertyValue('--c1');
-	var c2 = getComputedStyle(document.body).getPropertyValue('--c2');
+	var c5 = getComputedStyle(document.body).getPropertyValue('--c5');
 	
-	var xMin = 200;
-	var xMax = 600;
+	var xMin = 250;
+	var xMax = 650;
 	var yMin = 220;
 	var yMax = 10;
 	
-	var xLegend = 660;
+	var xLegend = 740;
 	var yLegend = 60;
 	
 	var avgs = [788, 966, 2589, 0, 714, 1425, 1808, 2755, 2441, 389, 3856, 1347, 2481, 1893, 1654, 1103, 2425, 2601, 1206, 2410, 1600, 637, 2771, 1054, 1172, 1566, 2324, 0, 1522, 1725, 1217];
@@ -266,7 +276,7 @@ function addVisualizationAktivnost(visData) {
 	newVisualization += "<h2>Aktivnost po mesecih</h2>";
 	
 	// svg begin
-	newVisualization += "<svg width=\"800\" height=\"265\" style=\"fill: " + c1 + ";\">";
+	newVisualization += "<svg width=\"900\" height=\"265\" style=\"fill: " + c1 + ";\">";
 	
 	// avgs polygon
 	newVisualization += "<polygon points=\"" + xMin + "," + yMin + " ";
@@ -294,13 +304,13 @@ function addVisualizationAktivnost(visData) {
 		var y = yMin + (visData[i] / max * (yMax - yMin));
 		newVisualization += x + "," + y + " ";
 	}
-	newVisualization += "\" style=\"fill: none; stroke: " + c2 + "; stroke-width: 2;\"/>";
+	newVisualization += "\" style=\"fill: none; stroke: " + c5 + "; stroke-width: 2;\"/>";
 	
 	// visData dots
 	for (var i = 0; i < avgs.length; i++) {
 		var x = xMin + (i / (avgs.length - 1) * (xMax - xMin));
 		var y = yMin + (visData[i] / max * (yMax - yMin));
-		newVisualization += "<circle cx=\"" + x + "\" cy=\"" + y + "\" r=\"4\" style=\"fill: " + c2 + ";\"/>";
+		newVisualization += "<circle cx=\"" + x + "\" cy=\"" + y + "\" r=\"4\" style=\"fill: " + c5 + ";\"/>";
 	}
 	
 	// text x
@@ -318,10 +328,10 @@ function addVisualizationAktivnost(visData) {
 	newVisualization += xLegend + "," + (yLegend + 22) + " ";
 	newVisualization += (xLegend + 10) + "," + (yLegend + 12) + " ";
 	newVisualization += (xLegend + 20) + "," + (yLegend + 22) + " ";
-	newVisualization += "\" style=\"fill: none; stroke: " + c2 + "; stroke-width: 2;\"/>";
-	newVisualization += "<circle cx=\"" + xLegend + "\" cy=\"" + (yLegend + 22) + "\" r=\"4\" style=\"fill: " + c2 + ";\"/>";
-	newVisualization += "<circle cx=\"" + (xLegend + 10) + "\" cy=\"" + (yLegend + 12) + "\" r=\"4\" style=\"fill: " + c2 + ";\"/>";
-	newVisualization += "<circle cx=\"" + (xLegend + 20) + "\" cy=\"" + (yLegend + 22) + "\" r=\"4\" style=\"fill: " + c2 + ";\"/>";
+	newVisualization += "\" style=\"fill: none; stroke: " + c5 + "; stroke-width: 2;\"/>";
+	newVisualization += "<circle cx=\"" + xLegend + "\" cy=\"" + (yLegend + 22) + "\" r=\"4\" style=\"fill: " + c5 + ";\"/>";
+	newVisualization += "<circle cx=\"" + (xLegend + 10) + "\" cy=\"" + (yLegend + 12) + "\" r=\"4\" style=\"fill: " + c5 + ";\"/>";
+	newVisualization += "<circle cx=\"" + (xLegend + 20) + "\" cy=\"" + (yLegend + 22) + "\" r=\"4\" style=\"fill: " + c5 + ";\"/>";
 	newVisualization += "<text x=\"" + (xLegend + 35) + "\" y=\"" + (yLegend + 0) + "\" text-anchor=\"start\">Št. besed</text>";
 	newVisualization += "<text x=\"" + (xLegend + 35) + "\" y=\"" + (yLegend + 20) + "\" text-anchor=\"start\">izbranega</text>";
 	newVisualization += "<text x=\"" + (xLegend + 35) + "\" y=\"" + (yLegend + 40) + "\" text-anchor=\"start\">poslanca.</text>";
